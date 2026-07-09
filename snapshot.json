@@ -1,0 +1,907 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-07-09",
+  "updatedAt": "2026-07-09T19:00:00Z",
+  "exportedAt": "2026-07-09T23:19:38.153Z",
+  "districtCode": "AK-AL",
+  "data": {
+    "DISTRICT": {
+      "id": "ak",
+      "districtNumber": "AK-AL",
+      "districtName": "Alaska's At-Large Congressional District",
+      "state": "Alaska",
+      "counties": [
+        "Statewide (at-large — Alaska has no sub-districts; boroughs/census areas listed for reference: Anchorage, Fairbanks North Star, Matanuska-Susitna, Kenai Peninsula, Juneau, and all other Alaska boroughs and census areas)"
+      ],
+      "majorPlaces": [
+        "Anchorage",
+        "Fairbanks",
+        "Juneau",
+        "Wasilla",
+        "Sitka"
+      ],
+      "cycleYear": 2026,
+      "population": 733583,
+      "registeredVoters": 575170,
+      "partyRegistration": null,
+      "boundaryConfidence": "high",
+      "electorateConfidence": "unconfirmed",
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — Alaska At-Large",
+        "winner": {
+          "name": "Nick Begich III (R)",
+          "pct": 51.22,
+          "votes": 164861
+        },
+        "runnerUp": {
+          "name": "Mary Peltola (D)",
+          "pct": 48.78,
+          "votes": 156985
+        },
+        "turnoutPct": 55.8
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "Alaska's at-large district is the entire state — there are no sub-districts. Anchorage is the dominant population center, with Fairbanks, the Matanuska-Susitna Borough (Wasilla/Palmer), Juneau, and the Kenai Peninsula as secondary centers. Statewide Division of Elections coverage and statewide news outlets are the correct frame; there is no single 'district-specific' local outlet.",
+        "preferredOutlets": [
+          "Anchorage Daily News",
+          "Alaska Public Media",
+          "Alaska Beacon",
+          "KTUU",
+          "KTOO",
+          "The Alaska Current",
+          "The Alaska Story",
+          "Alaska Landmine",
+          "Northern Journal"
+        ]
+      }
+    },
+    "SOURCES": {
+      "src-ak-doe-election-info": {
+        "id": "src-ak-doe-election-info",
+        "name": "Alaska Division of Elections — Election Information",
+        "short": "AK DOE Election Info",
+        "url": "https://www.elections.alaska.gov/election-information/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
+      },
+      "src-ak-doe-candidates": {
+        "id": "src-ak-doe-candidates",
+        "name": "Alaska Division of Elections — Candidates",
+        "short": "AK DOE Candidates",
+        "url": "https://www.elections.alaska.gov/candidates/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "States voter registration deadlines: July 19, 2026 (primary) and Oct. 4, 2026 (general). Candidate roster did not render complete machine-readable list in research pass."
+      },
+      "src-ak-doe-absentee": {
+        "id": "src-ak-doe-absentee",
+        "name": "Alaska Division of Elections — Absentee and Early Voting",
+        "short": "AK DOE Absentee",
+        "url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Source for absentee application deadlines, postmark rule, and 10-day domestic / 15-day overseas receipt windows."
+      },
+      "src-ak-doe-voter-info": {
+        "id": "src-ak-doe-voter-info",
+        "name": "Alaska Division of Elections — Voter Information",
+        "short": "AK DOE Voter Info",
+        "url": "https://www.elections.alaska.gov/voter-information/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ak-doe-polls": {
+        "id": "src-ak-doe-polls",
+        "name": "Alaska Division of Elections — Polling Place Locations",
+        "short": "AK DOE Polls",
+        "url": "https://www.elections.alaska.gov/election-polls/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Polls open 7:00 AM - 8:00 PM local time; Aleutian Islands west of Umnak use Hawaii-Aleutian Time, closing later in UTC terms than the rest of the state."
+      },
+      "src-ak-doe-results": {
+        "id": "src-ak-doe-results",
+        "name": "Alaska Division of Elections — Election Results",
+        "short": "AK DOE Results",
+        "url": "https://www.elections.alaska.gov/election-results/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ak-doe-petitions-measures": {
+        "id": "src-ak-doe-petitions-measures",
+        "name": "Alaska Division of Elections — Petitions and Ballot Measures",
+        "short": "AK DOE Petitions",
+        "url": "https://www.elections.alaska.gov/petitions-and-ballot-measures/",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms both 24ESEG (RCV repeal) and 23RCF2 (campaign-contribution limits) qualified for the Nov. 3, 2026 ballot."
+      },
+      "src-ak-doe-b05pf": {
+        "id": "src-ak-doe-b05pf",
+        "name": "Alaska Division of Elections — Declaration of Candidacy (Form B05P-F)",
+        "short": "AK DOE B05P-F",
+        "url": "https://www.elections.alaska.gov/doc/forms/Updated/B05P-F.pdf",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Source for candidate filing deadline (June 1, 2026), primary withdrawal deadline (June 27), general withdrawal deadline (Aug 31), and write-in filing deadline (Oct 29)."
+      },
+      "src-ak-doe-24genr-rcv": {
+        "id": "src-ak-doe-24genr-rcv",
+        "name": "Alaska Division of Elections — 2024 RCV Detailed Report (U.S. Representative)",
+        "short": "AK 2024 RCV Report",
+        "url": "https://www.elections.alaska.gov/results/24GENR/RCV-USRep.pdf",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Official round-by-round 2024 RCV tabulation: Round 3 final Begich 164,861 (51.22%) vs. Peltola 156,985 (48.78%)."
+      },
+      "src-ak-doe-24genr-summary": {
+        "id": "src-ak-doe-24genr-summary",
+        "name": "Alaska Division of Elections — 2024 Election Summary Report",
+        "short": "AK 2024 Summary Report",
+        "url": "https://www.elections.alaska.gov/results/24GENR/ElectionSummaryReport.pdf",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Source for 2024 turnout figure: 340,981 ballots cast of 611,078 registered voters (55.80%)."
+      },
+      "src-ak-doe-2024-media-packet": {
+        "id": "src-ak-doe-2024-media-packet",
+        "name": "Alaska Division of Elections — 2024 Media Packet (General Election)",
+        "short": "AK 2024 Media Packet",
+        "url": "https://www.elections.alaska.gov/doc/mp/2024/MediaPacket-2024-General.pdf",
+        "publisher": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
+      },
+      "src-ltgov-2024-certification": {
+        "id": "src-ltgov-2024-certification",
+        "name": "Office of the Lieutenant Governor — 2024 Final Ballot Count and RCV Tabulation Announcement",
+        "short": "Lt. Gov. 2024 Certification",
+        "url": "https://ltgov.alaska.gov/newsroom/2024/11/lieutenant-governor-nancy-dahlstrom-announces-completion-of-final-ballot-count-and-ranked-choice-tabulations/",
+        "publisher": "Office of the Lieutenant Governor of Alaska",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Certified Nov. 30, 2024: Begich 51.31% to Peltola's 48.69% (final-round figures include minor post-report adjustments)."
+      },
+      "src-as-15-15-225": {
+        "id": "src-as-15-15-225",
+        "name": "Alaska Statutes AS 15.15.225 — Voter Identification at Polls",
+        "short": "AS 15.15.225",
+        "url": "https://law.justia.com/codes/alaska/title-15/chapter-15/section-15-15-225/",
+        "publisher": "State of Alaska (via Justia)",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-as-15-20-081": {
+        "id": "src-as-15-20-081",
+        "name": "Alaska Statutes AS 15.20.081 — Absentee Ballot Identification",
+        "short": "AS 15.20.081",
+        "url": "https://law.justia.com/codes/alaska/title-15/chapter-20/article-1/section-15-20-081/",
+        "publisher": "State of Alaska (via Justia)",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-akleg-sb64": {
+        "id": "src-akleg-sb64",
+        "name": "Alaska State Legislature — Senate Bill 64 (2026 election-reform bill)",
+        "short": "AK SB 64",
+        "url": "https://www.akleg.gov/basis/get_documents.asp?docid=7503",
+        "publisher": "Alaska State Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
+      },
+      "src-fairvote-2024-outcomes": {
+        "id": "src-fairvote-2024-outcomes",
+        "name": "FairVote — Alaska 2024 Election Results / RCV Outcomes Analysis",
+        "short": "FairVote AK 2024",
+        "url": "https://fairvote.org/alaska-election-results-show-ranked-choice-voting-continues-to-work-well-for-voters/",
+        "publisher": "FairVote",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "RCV-advocacy organization; used for context only, not as a neutral arbiter of RCV policy merits."
+      },
+      "src-ncsl-2026-primary-dates": {
+        "id": "src-ncsl-2026-primary-dates",
+        "name": "NCSL — 2026 State Primary Election Dates",
+        "short": "NCSL 2026 Primary Dates",
+        "url": "https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates",
+        "publisher": "National Conference of State Legislatures",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-ballotpedia-24eseg": {
+        "id": "src-ballotpedia-24eseg",
+        "name": "Ballotpedia News — Alaska Voters to Consider RCV Repeal Initiative in 2026",
+        "short": "Ballotpedia 24ESEG",
+        "url": "https://news.ballotpedia.org/2026/01/07/alaska-voters-to-consider-ranked-choice-voting-repeal-initiative-in-2026-after-narrowest-defeat-in-state-history-in-2024/",
+        "publisher": "Ballotpedia",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
+      },
+      "src-alaskapublic-candidates-june3": {
+        "id": "src-alaskapublic-candidates-june3",
+        "name": "Alaska Public Media — In bid for re-election, Alaska U.S. Rep. Nick Begich defends against 14 challengers",
+        "short": "AKPM 15-Candidate Field",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-06-03/in-bid-for-re-election-alaska-u-s-rep-nick-begich-defends-against-14-challengers",
+        "publisher": "Alaska Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Details the 15-candidate primary field, expected top challengers Matt Schultz (D) and Bill Hill (Nonpartisan), and confirms Aug. 18 / Nov. 3 dates."
+      },
+      "src-alaskapublic-sb64-veto": {
+        "id": "src-alaskapublic-sb64-veto",
+        "name": "Alaska Public Media — Gov. Dunleavy vetoes election reform bill",
+        "short": "AKPM SB 64 Veto",
+        "url": "https://alaskapublic.org/news/politics/alaska-legislature/2026-04-30/gov-dunleavy-vetoes-election-reform-bill-citing-concerns-over-timeline-ahead-of-2026-election",
+        "publisher": "Alaska Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-thealaskastory-rcv-repeal-cleared": {
+        "id": "src-thealaskastory-rcv-repeal-cleared",
+        "name": "The Alaska Story — Lt. Gov. Dahlstrom clears RCV repeal for 2026 ballot",
+        "short": "Alaska Story RCV Repeal Cleared",
+        "url": "https://thealaskastory.com/lt-gov-dahlstrom-clears-ranked-choice-voting-repeal-for-2026-ballot/",
+        "publisher": "The Alaska Story",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "Describes 24ESEG effective-date mechanics (~90 days post-certification), the basis for treating the measure as non-retroactive to the 2026 House race."
+      },
+      "src-thealaskastory-voter-roll-purge": {
+        "id": "src-thealaskastory-voter-roll-purge",
+        "name": "The Alaska Story — Alaska voter rolls shrink after annual purge",
+        "short": "Alaska Story Voter Roll Purge",
+        "url": "https://thealaskastory.com/alaska-voter-rolls-shrink-after-annual-purge-undeclared-voters-dominate-mat-su-voter-rolls-grow/",
+        "publisher": "The Alaska Story",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed",
+        "notes": "March 8, 2026: statewide registered-voter roll fell from 596,493 to 575,170 after the March 3, 2026 purge."
+      },
+      "src-juneauempire-2024-results": {
+        "id": "src-juneauempire-2024-results",
+        "name": "Juneau Empire — RCV repeal fails by 0.2%, Begich defeats Peltola 51.3%-48.7%",
+        "short": "Juneau Empire 2024 Results",
+        "url": "https://www.juneauempire.com/2024/11/19/ranked-choice-voting-repeal-fails-by-0-2-begich-defeats-peltola-51-3-48-7-with-all-ballots-counted/",
+        "publisher": "Juneau Empire",
+        "sourceType": "news",
+        "hierarchyLevel": 6,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      },
+      "src-fvap-alaska": {
+        "id": "src-fvap-alaska",
+        "name": "FVAP.gov — Alaska Federal Election Deadlines",
+        "short": "FVAP Alaska",
+        "url": "https://www.fvap.gov/guide/chapter2/alaska",
+        "publisher": "Federal Voting Assistance Program (U.S. Dept. of Defense)",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 5,
+        "dateAccessed": "2026-07-09",
+        "lastVerified": "2026-07-09",
+        "confidence": "unconfirmed"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "ev-candidate-filing-deadline",
+        "milestone": "Candidate filing deadline (Declaration of Candidacy)",
+        "electionType": "primary",
+        "date": "2026-06-01",
+        "significance": "5:00 PM deadline for U.S. House at-large candidates to file a Declaration of Candidacy for the Aug. 18, 2026 top-four primary.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-b05pf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-withdrawal-deadline",
+        "milestone": "Last day for candidates to withdraw from the primary ballot",
+        "electionType": "primary",
+        "date": "2026-06-27",
+        "significance": "Saturday, June 27, 2026 (AS 15.25.055). Final day for a candidate to withdraw from the top-four primary ballot.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-b05pf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "confirmed"
+      },
+      {
+        "id": "ev-primary-reg-deadline",
+        "milestone": "Voter registration deadline (primary)",
+        "electionType": "primary",
+        "date": "2026-07-19",
+        "significance": "Sunday, July 19, 2026. Registration must be postmarked, received, submitted online, or sent by email/fax by this date; in-person registration is also available at Division offices during extended hours July 18-19. This is Alaska's statutory 30-days-before-Election-Day rule (AS 15.07).",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-candidates",
+          "src-ak-doe-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-absentee-request-primary",
+        "milestone": "Absentee-by-mail application deadline (primary)",
+        "electionType": "primary",
+        "date": "2026-08-08",
+        "significance": "Saturday, August 8, 2026. Deadline to submit an application for an absentee-by-mail ballot for the top-four primary.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-top-four-primary",
+        "milestone": "Top-four nonpartisan primary election day",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "All candidates for U.S. House at-large appear on one nonpartisan ballot regardless of party; the top four vote-getters advance to the Nov. 3, 2026 ranked-choice general election. 15 candidates filed for 2026, including incumbent Rep. Nick Begich III (R) and 14 challengers.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-election-info",
+          "src-alaskapublic-candidates-june3"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-absentee-return-primary",
+        "milestone": "Absentee ballot return deadline (primary)",
+        "electionType": "primary",
+        "date": "2026-08-18",
+        "significance": "Mailed ballots must be postmarked on or before Election Day (Aug. 18, 2026) and are still counted if received within 10 days after the election; ballots dropped off in person at a voting location must arrive by 8:00 PM Election Day.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-absentee",
+          "src-fvap-alaska"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-general-withdrawal-deadline",
+        "milestone": "Last day for top-four finishers to withdraw from the general ballot",
+        "electionType": "general",
+        "date": "2026-08-31",
+        "significance": "5:00 PM deadline for a top-four primary finisher to withdraw from the Nov. 3, 2026 general-election ballot. Under AS 15.25.100(c), a withdrawing finisher is replaced by the next-highest primary finisher.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-b05pf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-general-reg-deadline",
+        "milestone": "Voter registration deadline (general)",
+        "electionType": "general",
+        "date": "2026-10-04",
+        "significance": "Sunday, October 4, 2026. Registration must be postmarked, received, submitted online, or sent by email/fax by this date. This is Alaska's statutory 30-days-before-Election-Day rule (AS 15.07) applied to the Nov. 3, 2026 general election.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-candidates",
+          "src-ak-doe-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-absentee-request-general",
+        "milestone": "Absentee-by-mail application deadline (general)",
+        "electionType": "general",
+        "date": "2026-10-24",
+        "significance": "Saturday, October 24, 2026. Deadline to submit an application for an absentee-by-mail ballot for the Nov. 3, 2026 general election.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-absentee"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-write-in-filing-deadline",
+        "milestone": "Write-in candidate filing deadline (general)",
+        "electionType": "general",
+        "date": "2026-10-29",
+        "significance": "5:00 PM Alaska Time, Thursday, October 29, 2026 (AS 15.25.105(13)(c)). Write-ins are allowed for every race except President/Vice-President; write-in votes count as individual candidates in RCV tabulation only if they meet a statutory vote-share threshold.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-b05pf"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-general-rcv",
+        "milestone": "Ranked-choice general election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Voters rank up to four of the top-four-primary finishers. If one candidate has more than 50% of first-choice votes, they win outright; otherwise instant-runoff tabulation begins. Polls open 7:00 AM - 8:00 PM local time (Aleutian Islands west of Umnak use Hawaii-Aleutian Time). Ballot Measure 24ESEG, an RCV/top-four repeal initiative, also appears on this same ballot but would not retroactively change how this race is tabulated even if approved (unconfirmed against final certified measure text).",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-election-info",
+          "src-ak-doe-polls"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-absentee-return-general",
+        "milestone": "Absentee ballot return deadline (general)",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Mailed ballots must be postmarked on or before Election Day (Nov. 3, 2026); domestic mailed ballots must still be received within 10 days after the election, overseas ballots within 15 days. Ballots dropped off in person must arrive by 8:00 PM Election Day.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-absentee",
+          "src-fvap-alaska"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-rcv-tabulation-window",
+        "milestone": "RCV instant-runoff tabulation date (if no majority winner on election night)",
+        "electionType": "general",
+        "date": "2026-11-18",
+        "significance": "APPROXIMATE / NEEDS REVIEW: not yet published by the Division of Elections for 2026. Estimated from the 2024 precedent, where RCV tabulation ran Nov. 20, 2024 (15 days after Election Day) following a 7-day count and additional counting days. Confirm the actual 2026 date on the Division's site closer to the election.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ak-doe-2024-media-packet"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-certification",
+        "milestone": "Target date for State Review Board certification",
+        "electionType": "general",
+        "date": "2026-11-28",
+        "significance": "APPROXIMATE / NEEDS REVIEW: not yet published by the Division of Elections for 2026. Estimated from the 2024 analogue (certified Nov. 30, 2024, ~25 days post-election). Confirm the actual 2026 date on the Division's site closer to the election.",
+        "governingAuthority": "Alaska Office of the Lieutenant Governor / State Review Board",
+        "sourceIds": [
+          "src-ltgov-2024-certification",
+          "src-ak-doe-2024-media-packet"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      },
+      {
+        "id": "ev-ballot-measure-rcv-repeal",
+        "milestone": "Ballot Measure 24ESEG (RCV/top-four repeal) appears on the general ballot",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "A second RCV-repeal initiative (24ESEG, 'An Act Restoring Political Party Primaries, Single-Choice General Elections, and Campaign Finance Rules') qualified for the Nov. 3, 2026 general ballot (not the August primary), following a 2024 repeal attempt that narrowly failed (49.9% Yes to 50.1% No, confirmed by recount). Litigation over the ballot title/summary wording is ongoing.",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceIds": [
+          "src-ballotpedia-24eseg",
+          "src-thealaskastory-rcv-repeal-cleared",
+          "src-ak-doe-petitions-measures"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-ak-voter-id",
+        "topic": "Voter ID requirements at the polls (AS 15.15.225)",
+        "currentRule": "Acceptable ID: (1) an official voter registration card, driver's license, state ID card, current and valid photo identification, birth certificate, passport, or hunting or fishing license; OR (2) an original or copy of a current utility bill, bank statement, paycheck, government check, or other government document showing the voter's name and current address. An election official may waive the requirement if they personally know the voter (with exceptions for certain first-time mail registrants). A voter without ID casts a questioned ballot.",
+        "status": "active",
+        "whyItMatters": "Alaska's at-large voters have a broader accepted-ID list than many states (including hunting/fishing licenses), but a voter lacking any accepted ID must cast a questioned ballot rather than being turned away.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-as-15-15-225",
+          "src-ncsl-2026-primary-dates"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "PENDING CHANGE, NOT YET LAW: SB 64 would have added tribal ID cards and removed hunting/fishing licenses from the accepted list, but was vetoed by Gov. Dunleavy on April 30, 2026; a veto-override attempt's outcome is unconfirmed. Do not treat the ID list as changed until an override or new legislation is confirmed."
+      },
+      {
+        "id": "rule-ak-top-four-primary-mechanics",
+        "topic": "Top-four nonpartisan primary mechanics",
+        "currentRule": "All candidates for a given office, regardless of party, appear together on one nonpartisan ballot. Each voter selects one candidate. The top four vote-getters by raw vote count (no runoff at this stage) advance to the general election, irrespective of party affiliation. If a top-four finisher withdraws before the general, AS 15.25.100(c) requires successive replacement from the next-highest primary finisher.",
+        "status": "active",
+        "whyItMatters": "Alaska voters should understand that the Aug. 18, 2026 primary does not itself decide the U.S. House race — it narrows a 15-candidate field to four names that then compete under ranked-choice rules in November.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-alaskapublic-candidates-june3",
+          "src-ak-doe-election-info"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Successive-replacement mechanic confirmed by a 2025 Alaska Supreme Court ruling in Alaska Democratic Party v. Division of Elections."
+      },
+      {
+        "id": "rule-ak-rcv-general-mechanics",
+        "topic": "Ranked-choice (instant-runoff) general-election mechanics",
+        "currentRule": "Voters rank up to four candidates in order of preference. If one candidate receives more than 50% of first-choice votes, they win outright. Otherwise, the candidate with the fewest votes is eliminated and their ballots' next-ranked choice is redistributed; this repeats until one candidate has a majority or only two remain. Write-ins are allowed for every race except President/VP; write-in votes count as individual RCV candidates only if they meet a statutory vote-share threshold (highest, or a close second within 0.5 points of the leader's first-choice total).",
+        "status": "active",
+        "whyItMatters": "Alaska's at-large U.S. House race will very likely go to multiple RCV tabulation rounds absent a first-choice majority, as occurred in 2024 (3 rounds, Begich defeating Peltola 51.22% to 48.78% in the final round).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ak-doe-2024-media-packet",
+          "src-ak-doe-24genr-rcv"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "Established by 2020's Ballot Measure 2; remains the law for the 2026 cycle. A repeal attempt failed narrowly in 2024 (49.9% Yes to 50.1% No, confirmed by recount at a 743-vote margin)."
+      },
+      {
+        "id": "rule-ak-ballot-measure-2-repeal-non-retroactive",
+        "topic": "Ballot Measure 24ESEG (RCV/top-four repeal) does not retroactively affect the 2026 U.S. House race",
+        "currentRule": "A second RCV-repeal initiative (24ESEG) is on the Nov. 3, 2026 general ballot (not the August primary, because the legislature did not adjourn early enough for August placement). Even if voters approve it, the measure would take effect only approximately 90 days after certification, meaning it would apply to future election cycles (2028+) and NOT change how the Nov. 3, 2026 U.S. House race itself is tabulated.",
+        "status": "active",
+        "whyItMatters": "Dashboard users should understand that a 'yes' vote on 24ESEG in November 2026 would not change the top-four/RCV rules governing that same November 2026 U.S. House race — the current race is tabulated under Ballot Measure 2 (2020) regardless of 24ESEG's outcome.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-thealaskastory-rcv-repeal-cleared",
+          "src-ballotpedia-24eseg"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "NEEDS REVIEW: this non-retroactivity inference is based on described effective-date mechanics in news reporting and has not been confirmed against the final certified ballot-measure text or Division of Elections implementation guidance. Litigation over 24ESEG's ballot title/summary wording is also ongoing (Alaskans for Better Elections v. Division of Elections)."
+      },
+      {
+        "id": "rule-ak-absentee-signature-no-cure",
+        "topic": "Absentee signature/witness requirements and absence of a statutory cure process",
+        "currentRule": "Absentee-by-mail ballots require the voter's own signature, a numerical identifier (Alaska driver's license/state ID number, voter ID number, or last four digits of SSN), and a witness or attesting-official signature (AS 15.20.081). Alaska does NOT currently have a statutory notice-and-cure process — a January 2025 Alaska Superior Court ruling held the Division of Elections is not required to implement one, leaving that responsibility to the legislature.",
+        "status": "active",
+        "whyItMatters": "An Alaska at-large voter whose absentee ballot is rejected for a missing/incorrect witness signature or other curable defect currently has no guaranteed statutory path to fix it and have the ballot counted; roughly 800 absentee ballots were rejected for curable defects in the 2024 general election (about 512 for witness-signature issues).",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-as-15-20-081",
+          "src-akleg-sb64"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-07-09",
+        "needsReview": true,
+        "detail": "SB 64 would have created a formal ballot-curing system (24-hour notification, ~10 days to submit a corrected signature/ID) effective for the general election only, but was vetoed by Gov. Dunleavy on April 30, 2026; a veto-override vote's outcome is unconfirmed. Treat Alaska as having no functioning cure process unless an override or new legislation is confirmed before the election."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-register",
+        "label": "Register to vote",
+        "description": "Official online voter registration portal (requires an Alaska driver's license or state ID); a printable paper-form fallback is available via the Division's Voter Information hub.",
+        "url": "https://voterregistration.alaska.gov/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-voter-info",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official Polling Place Locations tool (search by city/district or address locator). Polls open 7:00 AM - 8:00 PM local time; note the Aleutian Islands west of Umnak Island use Hawaii-Aleutian Time.",
+        "url": "https://www.elections.alaska.gov/election-polls/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-polls",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find an absentee/early-voting location",
+        "description": "Alaska does not operate a standalone ballot drop-box network like Colorado or Washington. Instead, voters can hand-deliver absentee ballots at in-person absentee/early-voting stations by 8:00 PM on Election Day. This tile is repurposed to link to the absentee-voting-location search rather than a drop-box locator, per research recommendation.",
+        "url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-absentee",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "\"My Voter Portal\" — check registration status, polling place, and absentee application/ballot status in one tool.",
+        "url": "https://myvoterportal.alaska.gov/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-voter-info",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your absentee ballot",
+        "description": "The Absentee and Early Voting page's Voter Information Tool section tracks absentee application and ballot status. NEEDS REVIEW: a dedicated real-time ballot-tracking system (distinct from application status) was proposed under vetoed SB 64 but is not confirmed to exist statewide as of this research; Anchorage municipality has its own local tracker, but no confirmed statewide equivalent exists for state/federal races in 2026.",
+        "url": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-absentee",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-verify",
+        "label": "Voter ID information",
+        "description": "Main Voter Information hub — covers the Alaska Voter ID Card, registration verification, and accessibility information. Note: SB 64's proposed ID-list changes (adding tribal ID, removing hunting/fishing licenses) were vetoed and are not in effect.",
+        "url": "https://www.elections.alaska.gov/voter-information/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-voter-info",
+        "lastVerified": "2026-07-09"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official Election Results page — Election Night first-choice results, RCV Detailed Reports after tabulation, and historical results back to 1958.",
+        "url": "https://www.elections.alaska.gov/election-results/",
+        "governingAuthority": "Alaska Division of Elections",
+        "sourceType": "official-state",
+        "sourceId": "src-ak-doe-results",
+        "lastVerified": "2026-07-09"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-ak-001",
+        "title": "AK dashboard initialized from wa-03 template with custom RCV event schema — 22 sources, 16 events, 5 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build July 9, 2026, cloned from the WA-03 template structure but using a CUSTOM top-four-primary/RCV-general event schema instead of the standard partisan primary/general schema. All 22 sources (Alaska Division of Elections, Lt. Gov.'s office, Alaska Statutes, Alaska Legislature, and dated news reporting) recorded from primary-source research. All 16 election events and 5 voting rules researched from official Alaska sources, but all marked needsReview/unconfirmed pending human QA. Incumbent Nick Begich III (R) faces 14 challengers in the Aug. 18, 2026 top-four primary.",
+        "sourceIds": [
+          "src-ak-doe-election-info",
+          "src-ak-doe-candidates",
+          "src-alaskapublic-candidates-june3"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-ak-002",
+        "title": "Ballot Measure 24ESEG (RCV repeal) qualifies for Nov. 3, 2026 ballot; treated as non-retroactive to the 2026 House race",
+        "fieldChanged": "Ballot measures / rule interpretation",
+        "oldValue": "Not previously tracked.",
+        "newValue": "24ESEG, a second RCV/top-four repeal initiative, qualified for the Nov. 3, 2026 general ballot (following the 2024 repeal attempt's narrow failure). Per reported effective-date mechanics (~90 days post-certification), even a successful repeal would not retroactively change how the 2026 U.S. House race itself is tabulated. This inference is unconfirmed against the final certified measure text.",
+        "sourceIds": [
+          "src-thealaskastory-rcv-repeal-cleared",
+          "src-ballotpedia-24eseg"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-ak-003",
+        "title": "SB 64 (ID list changes, ballot curing, voter-roll timeline changes) vetoed; override outcome unconfirmed",
+        "fieldChanged": "QA status / pending legislation",
+        "oldValue": "Not yet reviewed",
+        "newValue": "5 voting rules and 16 election events all marked needsReview: true, confidence: unconfirmed (lastVerified 2026-07-09). SB 64 was vetoed by Gov. Dunleavy on April 30, 2026; a veto-override vote's outcome is not confirmed in this research pass. The 2026-specific RCV tabulation date (~Nov. 18 estimate) and State Review Board certification date (~Nov. 28 estimate) have not yet been published by the Division and are marked approximate/needsReview.",
+        "sourceIds": [
+          "src-akleg-sb64",
+          "src-alaskapublic-sb64-veto"
+        ],
+        "detectedAt": "2026-07-09T18:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-ak-001",
+        "factInQuestion": "The exact current statewide registered-voter count for Alaska.",
+        "sourceAId": "src-thealaskastory-voter-roll-purge",
+        "sourceAClaim": "The Alaska Story (March 8, 2026) reports 575,170 registered voters following the Division's annual purge completed March 3, 2026, down from 596,493 the prior year.",
+        "sourceBId": "src-ak-doe-24genr-summary",
+        "sourceBClaim": "A separate July 2026 tally (L2 voter-file based, third-party, via the Independent Voter Project) reports 581,882 total registered voters as of July 8, 2026 — a different snapshot date and methodology than the Division-linked purge figure.",
+        "whyItMatters": "The dashboard needs one defensible statewide registered-voter figure. The Division of Elections' own live statistics page could not be fetched directly in research (blocked by robots.txt), so neither figure is a fully first-party confirmation.",
+        "suggestedReviewAction": "Cite the March 2026 post-purge Division-sourced figure (575,170) as primary, with a footnote caveat about snapshot-date sensitivity, until the Division's statistics page can be directly confirmed.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      },
+      {
+        "id": "conf-ak-002",
+        "factInQuestion": "Whether Ballot Measure 24ESEG, if approved November 3, 2026, would affect the tabulation of the concurrent 2026 U.S. House race.",
+        "sourceAId": "src-thealaskastory-rcv-repeal-cleared",
+        "sourceAClaim": "The Alaska Story's Dec. 31, 2025 reporting describes an effective-date mechanic (~90 days post-certification) implying any repeal would apply only to future cycles (2028+), not the race decided on the same Nov. 3, 2026 ballot.",
+        "sourceBId": "src-ballotpedia-24eseg",
+        "sourceBClaim": "Ballotpedia's Jan. 7, 2026 explainer confirms the measure's qualification and 2026 ballot placement but does not itself resolve the retroactivity question in the same level of procedural detail.",
+        "whyItMatters": "Voters and dashboard users could be confused into thinking a 'yes' vote on 24ESEG changes how their own November 2026 ballot for U.S. House is being counted. Getting this wrong could misinform voters about the mechanics of the very ballot they are casting.",
+        "suggestedReviewAction": "Confirm the non-retroactivity inference against the final certified ballot-measure text and any Division of Elections implementation guidance before publishing this as settled fact; monitor the pending Alaskans for Better Elections v. Division of Elections litigation over the measure's ballot title/summary wording.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-07-09T18:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-ak-001",
+        "headline": "In bid for re-election, Alaska U.S. Rep. Nick Begich defends against 14 challengers",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-06-03/in-bid-for-re-election-alaska-u-s-rep-nick-begich-defends-against-14-challengers",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "Details the 15-candidate top-four primary field, identifies Matt Schultz (D) and Bill Hill (Nonpartisan) as the expected leading Begich challengers, and confirms the Aug. 18 / Nov. 3, 2026 dates.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-002",
+        "headline": "Gov. Dunleavy vetoes election reform bill, citing concerns over timeline ahead of 2026 election",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/alaska-legislature/2026-04-30/gov-dunleavy-vetoes-election-reform-bill-citing-concerns-over-timeline-ahead-of-2026-election",
+        "publishedAt": "2026-04-30",
+        "relevanceSummary": "Reports the veto of SB 64, which would have created a ballot-curing process, changed the accepted voter-ID list, and tightened the voter-roll inactive-status timeline; veto-override outcome is pending/unconfirmed.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-003",
+        "headline": "Alaska governor vetoes election bill citing 'significant operational burdens'",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/legal/government/alaska-governor-vetoes-election-bill-citing-significant-operational-burdens-2026-05-01/",
+        "publishedAt": "2026-05-01",
+        "relevanceSummary": "National wire confirmation of the SB 64 veto and its scope, corroborating Alaska Public Media's reporting.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-004",
+        "headline": "Alaskans trying to repeal ranked choice voting sue over ballot wording",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/2026-02-23/alaskans-trying-to-repeal-ranked-choice-voting-sue-over-ballot-wording",
+        "publishedAt": "2026-02-23",
+        "relevanceSummary": "Details ongoing litigation over the ballot title/summary wording of Ballot Measure 24ESEG, the RCV-repeal initiative appearing on the same Nov. 3, 2026 ballot as the U.S. House race.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-005",
+        "headline": "Alaska voter rolls shrink after annual purge, undeclared voters dominate; Mat-Su voter rolls grow",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/alaska-voter-rolls-shrink-after-annual-purge-undeclared-voters-dominate-mat-su-voter-rolls-grow/",
+        "publishedAt": "2026-03-08",
+        "relevanceSummary": "Details the March 2026 voter-roll purge results (596,493 to 575,170 registered voters) and current statewide party-registration composition.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-006",
+        "headline": "Alaska voters to consider ranked-choice voting repeal initiative in 2026 after narrowest defeat in state history in 2024",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/01/07/alaska-voters-to-consider-ranked-choice-voting-repeal-initiative-in-2026-after-narrowest-defeat-in-state-history-in-2024/",
+        "publishedAt": "2026-01-07",
+        "relevanceSummary": "Explains the certification of Ballot Measure 24ESEG and its Nov. 3, 2026 ballot placement mechanics, directly relevant to how AK-AL voters should interpret the concurrent House race and repeal measure.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-07-09-ak-initial-build",
+      "startedAt": "2026-07-09T18:00:00Z",
+      "completedAt": "2026-07-09T19:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 22,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "Initial WA-03-cloned build for Alaska's at-large district, using a custom top-four-primary/ranked-choice-general event schema instead of the standard partisan primary/general schema, populated from primary-source research (Alaska Division of Elections, Office of the Lieutenant Governor, Alaska Statutes, Alaska Legislature, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including re-verification of the 2026-specific RCV tabulation and certification dates (currently estimated from 2024 precedent), the final status of SB 64's veto-override attempt, and the non-retroactivity inference for Ballot Measure 24ESEG."
+    },
+    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-ak-2026-w28",
+      "periodStart": "2026-07-09",
+      "periodEnd": "2026-07-09",
+      "sourcesChecked": 22,
+      "newUpdates": 3,
+      "conflictsCreated": 2,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 21,
+      "sourceErrors": 0,
+      "summary": "Initial build for Alaska's at-large congressional district, cloned from the WA-03 dashboard template but using a custom top-four-primary (Aug. 18, 2026) / ranked-choice-general (Nov. 3, 2026) event schema. Incumbent Rep. Nick Begich III (R) faces 14 challengers in the primary, including expected top challengers Matt Schultz (D) and Bill Hill (Nonpartisan); the top four finishers advance to a ranked-choice general election. A second RCV-repeal ballot measure (24ESEG) qualified for the same Nov. 3, 2026 ballot but, per reported effective-date mechanics, would not retroactively affect this cycle's House-race tabulation even if approved — this inference is unconfirmed against final certified measure text. Key unresolved conflicts: (1) statewide registered-voter count varies by source/snapshot date (575,170 vs. 581,882); (2) the 24ESEG non-retroactivity inference needs confirmation against certified measure text. SB 64 (ballot curing, voter-ID list changes, voter-roll timeline changes) was vetoed by Gov. Dunleavy on April 30, 2026; veto-override outcome is unconfirmed. The 2026 RCV tabulation date (~Nov. 18) and certification date (~Nov. 28) are estimates from 2024 precedent, not yet published by the Division. All 22 sources verified as of July 9, 2026. All events and rules flagged needsReview pending confirmation closer to Election Day.",
+      "generatedAt": "2026-07-09T18:00:00Z"
+    }
+  }
+}
