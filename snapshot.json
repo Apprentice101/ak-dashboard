@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-09",
-  "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-10T21:02:21.850Z",
+  "dataAsOf": "2026-07-10",
+  "updatedAt": "2026-07-10T21:43:04.826Z",
+  "exportedAt": "2026-07-10T21:46:41.797Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-10",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -873,20 +873,70 @@
         "relevanceSummary": "Explains the certification of Ballot Measure 24ESEG and its Nov. 3, 2026 ballot placement mechanics, directly relevant to how AK-AL voters should interpret the concurrent House race and repeal measure.",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0hhzrc3",
+        "headline": "Alaska governor vetoes new limits on political donations",
+        "sourceName": "Alaska Beacon",
+        "url": "https://alaskabeacon.com/2026/07/10/alaska-governor-vetoes-new-limits-on-political-donations/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "The governor vetoed a bill that would have imposed new limits on political donations, but an identical measure will still appear as a statewide ballot proposition in the Aug. 18 primary, for which ballots have already been printed; this affects how Alaska voters will encounter and decide campaign-finance rules on their primary ballots.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ax8zo7",
+        "headline": "Alaska’s news organizations are collaborating on voter guides — and you can help, too",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-07-09/alaskas-news-organizations-are-collaborating-on-voter-guides-and-you-can-help-too",
+        "publishedAt": "2026-07-09",
+        "relevanceSummary": "This article explains a statewide collaboration among Alaska news outlets to produce voter guides that will consolidate information on voting procedures, candidates, and how to cast a ballot, directly helping AK-AK-AL voters navigate upcoming elections.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0csnvhl",
+        "headline": "Alaska Supreme Court rules decoy Dan Sullivan stays on the ballot",
+        "sourceName": "Fox News",
+        "url": "https://www.foxnews.com/politics/expert-sounds-alarm-legal-battle-candidates-same-name-critical-senate-race-takes-new-turn",
+        "publishedAt": "2026-06-30",
+        "relevanceSummary": "The Alaska Supreme Court ruled that a challenger named Dan J. Sullivan, who shares the name and party of incumbent Sen. Dan Sullivan, is eligible to remain on the Republican primary ballot, while allowing election officials to add identifying information to distinguish the two candidates; this litigation shapes ballot design and potential voter confusion in Alaska’s August primary.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0v1dv32",
+        "headline": "Man with same name as US Sen. Dan Sullivan is eligible for Alaska’s primary ballot, judge rules",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/US/wireStory/man-same-us-sen-dan-sullivan-eligible-alaskas-134266233",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "An Alaska judge ruled that Dan J. Sullivan, sharing the same name and party affiliation as Sen. Dan Sullivan, can appear on the August primary ballot, confirming that voters will see two similarly named candidates and underscoring how the Division of Elections must administer and present the ballot.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-09zsu22",
+        "headline": "Senate candidate with same name as incumbent Dan Sullivan ineligible for ballot, Alaska election official rules",
+        "sourceName": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/senate-candidate-with-same-name-as-incumbent-dan-sullivan-ineligible-for-ballot-official-rules",
+        "publishedAt": "2026-06-24",
+        "relevanceSummary": "Alaska Division of Elections Director Carol Beecher initially ruled that the same‑name challenger to Sen. Dan Sullivan could not appear on the primary ballot because the filing was not made in good faith and threatened ballot integrity, highlighting how state election administrators scrutinize candidate filings and protect ballot clarity before courts intervened.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-09-ak-initial-build",
-      "startedAt": "2026-07-09T18:00:00Z",
-      "completedAt": "2026-07-09T19:00:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 22,
-      "updatesCreated": 0,
+      "id": "run-2026-07-10-ak-auto",
+      "startedAt": "2026-07-10T21:42:30.129Z",
+      "completedAt": "2026-07-10T21:43:04.826Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 5,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial WA-03-cloned build for Alaska's at-large district, using a custom top-four-primary/ranked-choice-general event schema instead of the standard partisan primary/general schema, populated from primary-source research (Alaska Division of Elections, Office of the Lieutenant Governor, Alaska Statutes, Alaska Legislature, and dated news reporting). All election events and voting rules remain marked needsReview: true and confidence: unconfirmed pending human QA, including re-verification of the 2026-specific RCV tabulation and certification dates (currently estimated from 2024 precedent), the final status of SB 64's veto-override attempt, and the non-retroactivity inference for Ballot Measure 24ESEG."
+      "summary": "Automated refresh completed 2026-07-10 for AK. Sources checked: 5. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-14T04:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-17T21:43:04.826Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
