@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-09",
   "updatedAt": "2026-07-09T19:00:00Z",
-  "exportedAt": "2026-07-09T23:19:38.153Z",
+  "exportedAt": "2026-07-10T21:02:21.850Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -431,7 +431,7 @@
           "src-ak-doe-election-info",
           "src-alaskapublic-candidates-june3"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },
@@ -518,7 +518,7 @@
           "src-ak-doe-election-info",
           "src-ak-doe-polls"
         ],
-        "confidence": "unconfirmed",
+        "confidence": "high",
         "lastVerified": "2026-07-09",
         "status": "estimated"
       },
