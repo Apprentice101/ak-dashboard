@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-10",
-  "updatedAt": "2026-07-10T21:43:04.826Z",
-  "exportedAt": "2026-07-10T21:46:41.797Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:09:14.194Z",
+  "exportedAt": "2026-07-15T06:37:59.780Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-07-15",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -923,20 +923,80 @@
         "relevanceSummary": "Alaska Division of Elections Director Carol Beecher initially ruled that the same‑name challenger to Sen. Dan Sullivan could not appear on the primary ballot because the filing was not made in good faith and threatened ballot integrity, highlighting how state election administrators scrutinize candidate filings and protect ballot clarity before courts intervened.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ytpgo1",
+        "headline": "Dunleavy vetoes limits on campaign donations, ensuring August vote to impose new caps",
+        "sourceName": "KTOO",
+        "url": "https://www.ktoo.org/2026/07/10/dunleavy-vetoes-limits-on-campaign-donations-ensuring-august-vote-to-impose-new-caps/",
+        "publishedAt": "2026-07-10",
+        "relevanceSummary": "This article explains that Gov. Mike Dunleavy vetoed a bill to reinstate campaign contribution limits, meaning Alaska voters statewide, including those in the at-large congressional district, will decide a similar measure on the August primary ballot, affecting campaign finance rules for state offices they vote on.[2]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0jfuh3e",
+        "headline": "Your Food Your Vote 2026: Alaska's Primary Elections",
+        "sourceName": "Alaska Food Policy Council",
+        "url": "https://www.akfoodpolicycouncil.org/gotv2026-alaskas-primary-elections/",
+        "publishedAt": "2026-07-08",
+        "relevanceSummary": "This statewide voter guide details Alaska’s 2026 primary procedures, including the July 19 voter registration deadline, key August dates, absentee by-mail request and postmark deadlines, and in-person early voting and Election Day polling hours and locations, all of which apply directly to AK-AL voters.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0i5xq6k",
+        "headline": "Why the Alaska Court Was Right to Reject a 'Good Faith' Test for Ballot Access",
+        "sourceName": "JURIST",
+        "url": "https://www.jurist.org/commentary/2026/06/why-the-alaska-court-was-right-to-reject-a-good-faith-test-for-ballot-access/",
+        "publishedAt": "2026-06-30",
+        "relevanceSummary": "This commentary analyzes the Alaska Supreme Court’s decision in the Dan Sullivan ballot case and explains that state election officials cannot apply non-legislated \"good faith\" tests to candidate eligibility, clarifying the legal framework governing ballot access and the Division of Elections’ authority for Alaska’s congressional elections.[3]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0rpc5pb",
+        "headline": "Man with same name as Alaska Sen. Dan Sullivan can appear on primary ballot, state's Supreme Court rules",
+        "sourceName": "CBS News",
+        "url": "https://www.cbsnews.com/news/alaska-dan-sullivan-gop-primary-ballot/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "Reporting on the same Alaska Supreme Court decision, this article details that the court reversed state election officials and allowed Daniel J. Sullivan onto the August Republican primary ballot, highlighting judicial limits on administrative discretion and how ballot design must distinguish candidates with identical names.[7]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0h07nq8",
+        "headline": "Alaska Supreme Court orders a spot on the ballot for 2nd Dan Sullivan",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-06-29/alaska-justices-sound-skeptical-of-extreme-remedy-in-case-of-2-dan-sullivans",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "The Alaska Supreme Court ordered that Dan J. Sullivan, a second candidate with the same name as incumbent U.S. Sen. Dan Sullivan, must be included on the statewide primary ballot, clarifying how the Division of Elections must treat candidate filings and ballot eligibility for congressional and statewide races.[6]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ayh81k",
+        "headline": "What does the Supreme Court upholding counting of late-arriving mail ballots mean for Alaska?",
+        "sourceName": "Alaska Story",
+        "url": "https://thealaskastory.com/what-does-the-supreme-court-upholding-counting-of-late-arriving-mail-ballots-mean-for-alaska/",
+        "publishedAt": "2026-06-29",
+        "relevanceSummary": "This article explains that after a recent U.S. Supreme Court decision upholding Mississippi’s law on late-arriving mail ballots, Alaska’s existing rule allowing absentee ballots postmarked by Election Day to be counted even if they arrive days later will remain in place, directly affecting how AK-AL voters’ mail-in ballots are treated.[1]",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-10-ak-auto",
-      "startedAt": "2026-07-10T21:42:30.129Z",
-      "completedAt": "2026-07-10T21:43:04.826Z",
+      "id": "run-2026-07-15-ak-auto",
+      "startedAt": "2026-07-15T06:08:36.366Z",
+      "completedAt": "2026-07-15T06:09:14.194Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
-      "updatesCreated": 5,
+      "sourcesChecked": 7,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-10 for AK. Sources checked: 5. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-15 for AK. Sources checked: 7. LLM verifications: 8. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-17T21:43:04.826Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:09:14.194Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
