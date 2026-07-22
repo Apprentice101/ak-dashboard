@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-15",
-  "updatedAt": "2026-07-15T06:09:14.194Z",
-  "exportedAt": "2026-07-15T06:37:59.780Z",
+  "dataAsOf": "2026-07-22",
+  "updatedAt": "2026-07-22T06:23:28.422Z",
+  "exportedAt": "2026-07-22T06:49:15.881Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -320,7 +320,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-22",
         "confidence": "unconfirmed",
         "notes": "Describes 24ESEG effective-date mechanics (~90 days post-certification), the basis for treating the measure as non-retroactive to the 2026 House race."
       },
@@ -983,20 +983,40 @@
         "relevanceSummary": "This article explains that after a recent U.S. Supreme Court decision upholding Mississippi’s law on late-arriving mail ballots, Alaska’s existing rule allowing absentee ballots postmarked by Election Day to be counted even if they arrive days later will remain in place, directly affecting how AK-AL voters’ mail-in ballots are treated.[1]",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0v66qzz",
+        "headline": "Murkowski: SAVE Act could require $1,000 trips to register to vote",
+        "sourceName": "Newsweek",
+        "url": "https://www.newsweek.com/murkowski-save-act-could-require-1000-trips-to-register-to-vote-12214305",
+        "publishedAt": "2026-07-18",
+        "relevanceSummary": "This article covers Alaska Senator Lisa Murkowski’s criticism of the proposed federal SAVE Act, which would require documentary proof of U.S. citizenship—potentially in-person—for voter registration in federal elections, significantly affecting how Alaska voters register and what documents they must present if the bill becomes law.[4]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0no85r6",
+        "headline": "Petition for hand counting of ballots in Fairbanks nears deadline for signatures",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/petition-for-hand-counting-of-ballots-in-fairbanks-nears-deadline-for-signatures/",
+        "publishedAt": "2026-07-15",
+        "relevanceSummary": "This Fairbanks North Star Borough measure would require ballots to be counted by hand instead of electronic tabulation, which affects ballot-processing procedures voters in Alaska may care about. The article says organizers had until July 23 to collect enough valid signatures to qualify the initiative for a future borough ballot.",
+        "tag": "rule-change",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-15-ak-auto",
-      "startedAt": "2026-07-15T06:08:36.366Z",
-      "completedAt": "2026-07-15T06:09:14.194Z",
+      "id": "run-2026-07-22-ak-auto",
+      "startedAt": "2026-07-22T06:22:41.838Z",
+      "completedAt": "2026-07-22T06:23:28.422Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 6,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-15 for AK. Sources checked: 7. LLM verifications: 8. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-22 for AK. Sources checked: 7. LLM verifications: 9. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-22T06:09:14.194Z",
+    "NEXT_REFRESH_AT": "2026-07-29T06:23:28.422Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
