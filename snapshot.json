@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:23:28.422Z",
-  "exportedAt": "2026-07-22T21:14:18.039Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:25:25.236Z",
+  "exportedAt": "2026-07-29T06:52:31.546Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -232,7 +232,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed"
       },
       "src-akleg-sb64": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-07-29",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1003,20 +1003,60 @@
         "relevanceSummary": "This Fairbanks North Star Borough measure would require ballots to be counted by hand instead of electronic tabulation, which affects ballot-processing procedures voters in Alaska may care about. The article says organizers had until July 23 to collect enough valid signatures to qualify the initiative for a future borough ballot.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0h49977",
+        "headline": "Alaska election officials scramble after routine voter check explodes from 200 names to 3,048",
+        "sourceName": "The Daily Bo Snerdley",
+        "url": "https://thedailybs.com/2026/07/26/alaska-election-officials-scramble-after-routine-voter-check-explodes-from-200-names-to-3048/",
+        "publishedAt": "2026-07-26",
+        "relevanceSummary": "A routine Alaska voter‑registration audit that normally flags about 200 potential noncitizens instead produced 3,048 cases after a records comparison with DMV data, causing those voters to be moved to inactive status and sent citizenship‑verification letters; recipients are not required to provide ID documents, can restore active status by affirming citizenship, and can still cast questioned ballots that will be reviewed before counting.[3] The article explains in detail how this statewide voter‑roll process works and what AK‑AL voters who received letters must do to protect their ability to vote.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0r8l4b0",
+        "headline": "Alaska sends 3,000 letters asking voters to verify their citizenship ahead of this year's elections",
+        "sourceName": "Fairbanks Daily News-Miner / Spot On Alaska",
+        "url": "https://spotonalaska.com/ak-inside-passage/419630/alaska-sends-3000-letters-asking.html",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "Reporting republished from the Fairbanks Daily News‑Miner describes Alaska’s decision to send over 3,000 letters to voters statewide, asking them to verify U.S. citizenship after a data match with DMV records, and notes growing questions about the Division of Elections’ handling of the process.[4] Because AK‑AL encompasses all Alaska voters, this statewide verification effort is directly relevant to their voter registration status and election‑day procedures.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-05fd8af",
+        "headline": "State removes 3,500 Alaskans from voter rolls, based in part on ‘old data’",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/2026-07-23/state-removes-3-500-alaskans-from-voter-rolls-based-in-part-on-old-data",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "Alaska’s Director of Elections told legislators that roughly 3,500 voters statewide were moved to the “inactive” list after a records check suggested they might not be citizens, acknowledging the flags may rely on very old DMV data; recipients are asked to confirm citizenship by mail, phone, or email, and non‑responders must cast a questioned ballot attesting their eligibility.[2] This statewide administrative change affects how AK‑AL voters appear on the rolls and what steps they must take to ensure their votes are counted.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-036c0hz",
+        "headline": "Alaska Sends 3,000 Letters Asking Voters to Verify Their Citizenship Ahead of This Year's Elections",
+        "sourceName": "AP / U.S. News & World Report",
+        "url": "https://www.usnews.com/news/politics/articles/2026-07-23/alaska-sends-3-000-letters-asking-voters-to-verify-their-citizenship-ahead-of-this-years-elections",
+        "publishedAt": "2026-07-23",
+        "relevanceSummary": "The Alaska Division of Elections has sent about 3,048–3,500 letters statewide asking registered voters to confirm their citizenship based on DMV data, moving those who received letters to inactive status unless they respond; affected voters can restore active status by affirming citizenship and may still vote a questioned ballot if they do not respond before Election Day.[1][2] This is a statewide voter-roll maintenance and eligibility procedure that directly impacts Alaska at‑large district voters’ registration status and how their ballots will be handled.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-ak-auto",
-      "startedAt": "2026-07-22T06:22:41.838Z",
-      "completedAt": "2026-07-22T06:23:28.422Z",
+      "id": "run-2026-07-29-ak-auto",
+      "startedAt": "2026-07-29T06:24:53.574Z",
+      "completedAt": "2026-07-29T06:25:25.236Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 2,
-      "conflictsCreated": 0,
+      "sourcesChecked": 6,
+      "updatesCreated": 4,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for AK. Sources checked: 7. LLM verifications: 9. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for AK. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:23:28.422Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:25:25.236Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
