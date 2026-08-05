@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:25:25.236Z",
-  "exportedAt": "2026-07-29T06:52:31.546Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:21:10.695Z",
+  "exportedAt": "2026-08-05T06:46:19.742Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-10",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1043,20 +1043,80 @@
         "relevanceSummary": "The Alaska Division of Elections has sent about 3,048–3,500 letters statewide asking registered voters to confirm their citizenship based on DMV data, moving those who received letters to inactive status unless they respond; affected voters can restore active status by affirming citizenship and may still vote a questioned ballot if they do not respond before Election Day.[1][2] This is a statewide voter-roll maintenance and eligibility procedure that directly impacts Alaska at‑large district voters’ registration status and how their ballots will be handled.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0n1wfju",
+        "headline": "Alaska Democrats flood 'current resident' mailboxes with absentee applications — citizen eligibility boxes already marked ‘Yes’",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/alaska-democrats-flood-current-resident-mailboxes-with-absentee-applications-citizen-eligibility-boxes-already-marked-yes/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "This story describes a statewide mass mailing of absentee ballot applications by the Alaska Democratic Party, including pre-marked citizenship eligibility boxes, which may affect how many voters request mail ballots and raise questions about absentee ballot application procedures and voter eligibility verification.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0c3iupw",
+        "headline": "Early primary voting begins across Alaska, but not without hiccups",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/03/early-primary-voting-begins-across-alaska-but-not-without-hiccups/",
+        "publishedAt": "2026-08-03",
+        "relevanceSummary": "The article reports that early voting has started statewide and notes changes and issues at specific locations, including the relocation of a popular Anchorage early voting site and operating hours for early polling places, which affect where and when AK-AL voters can cast ballots in person.[15]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0jb7evj",
+        "headline": "Alaska’s primary election enters early-voting phase Monday: What voters need to know",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/alaskas-primary-election-enters-early-voting-phase-monday-what-voters-need-to-know/",
+        "publishedAt": "2026-08-02",
+        "relevanceSummary": "This statewide voter guide explains early voting, absentee in-person voting, electronic ballot transmission, special-needs voting, absentee ballot application deadlines, the lack of absentee-ballot drop boxes, ballot return options, polling-place hours, and acceptable ID documents, giving detailed voting procedure and voter-ID information relevant to all Alaska voters.[8]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0je9ea6",
+        "headline": "EDITORIAL: Safeguarding elections or shaping them?",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/opinions/editorials/2026/08/01/editorial-safeguarding-elections-or-shaping-them/",
+        "publishedAt": "2026-08-01",
+        "relevanceSummary": "This editorial discusses recent actions by the Alaska Division of Elections, including moving 3,048 voters to inactive status and attempting to remove a U.S. Senate candidate from the ballot, highlighting administrative decisions that affect voter registration status and candidate access to the November ballot.[3]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-09tr057",
+        "headline": "Lawmakers say elections division ‘illegally’ deactivated registration of thousands of voters, urges director to reverse decision",
+        "sourceName": "Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/2026/07/30/lawmakers-say-elections-division-illegally-deactivated-registration-thousands-voters-urges-director-reverse-decision/",
+        "publishedAt": "2026-07-30",
+        "relevanceSummary": "Bipartisan Alaska lawmakers say the Division of Elections improperly moved thousands of voters to inactive status and urge officials to immediately restore registrations, notify affected voters, and explain the process, directly impacting eligibility and voter registration status for all Alaska voters, including those in the at-large congressional district.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0oijdqz",
+        "headline": "Alaskans to vote on ballot measure that would overhaul state election system",
+        "sourceName": "Alaska Beacon / News From The States",
+        "url": "https://www.newsfromthestates.com/article/alaskans-vote-ballot-measure-would-overhaul-state-election-system",
+        "publishedAt": "2026-07-29",
+        "relevanceSummary": "The article explains that a November ballot measure would repeal ranked choice voting and nonpartisan open primaries and reinstate closed primaries, fundamentally changing Alaska’s election system and how AK-AL voters select and rank candidates in future elections if approved.[13]",
+        "tag": "ballot-access",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-ak-auto",
-      "startedAt": "2026-07-29T06:24:53.574Z",
-      "completedAt": "2026-07-29T06:25:25.236Z",
+      "id": "run-2026-08-05-ak-auto",
+      "startedAt": "2026-08-05T06:20:34.891Z",
+      "completedAt": "2026-08-05T06:21:10.695Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 4,
-      "conflictsCreated": 1,
+      "sourcesChecked": 5,
+      "updatesCreated": 6,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for AK. Sources checked: 6. LLM verifications: 7. 4 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-05 for AK. Sources checked: 5. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:25:25.236Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:21:10.695Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
