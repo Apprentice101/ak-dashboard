@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:21:10.695Z",
-  "exportedAt": "2026-08-05T06:46:19.742Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:25:06.247Z",
+  "exportedAt": "2026-08-12T05:45:45.656Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1103,20 +1103,90 @@
         "relevanceSummary": "The article explains that a November ballot measure would repeal ranked choice voting and nonpartisan open primaries and reinstate closed primaries, fundamentally changing Alaska’s election system and how AK-AL voters select and rank candidates in future elections if approved.[13]",
         "tag": "ballot-access",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-04gq3b8",
+        "headline": "It’s OK for candidates to conceal finances temporarily, Alaska state elections attorney says",
+        "sourceName": "Juneau Independent",
+        "url": "https://www.juneauindependent.com/post/it-s-ok-for-candidates-to-conceal-finances-temporarily-alaska-state-elections-attorney-says",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "This article concerns a state elections attorney's view on candidate-finance disclosure timing, which can affect candidate qualification and filing issues ahead of Alaska's general election. That makes it relevant to voters tracking who will appear on the November ballot.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0x6qg5c",
+        "headline": "Legislature's attorney says elections officials may have violated Alaska and federal law with voter removals",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/10/legislatures-attorney-says-elections-officials-may-have-violated-alaska-and-federal-law-with-voter-removals",
+        "publishedAt": "2026-08-10",
+        "relevanceSummary": "This report says the Alaska Division of Elections may have violated state and federal law when it removed thousands of suspected noncitizens from the active voter list. It also says affected voters can still vote in the Aug. 18 primary by casting a questioned ballot, which is directly relevant to Alaska voters' procedures.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0idana1",
+        "headline": "Division of Elections keeps 1900 Alaskans on 'inactive noncitizen' list awaiting verification",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-07/division-of-elections-keeps-1-900-alaskans-on-inactive-noncitizen-list-awaiting-verification",
+        "publishedAt": "2026-08-07",
+        "relevanceSummary": "The Alaska Division of Elections says it is sending follow-up letters to voters it removed from the active list this summer, and the story concerns how those voters can verify eligibility and restore active status. That affects registration status and ballot access for Alaska voters, including those in AK-AK-AL.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-035ch2z",
+        "headline": "Voter guide provides comprehensive look at Alaska elections",
+        "sourceName": "Homer Independent Press",
+        "url": "https://homerindependentpress.com/2026/08/06/voter-guide-provides-comprehensive-look-at-alaska-elections/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This voter guide is relevant because it covers Alaska election procedures in a single place, including how to vote and likely key dates. It is useful background for AK-AK-AL voters even though the search snippet does not expose every detail.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0yqxvjh",
+        "headline": "How to request an absentee ballot in Alaska's primary election",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/06/saturday-is-the-deadline-to-request-an-absentee-by-mail-ballot-in-alaskas-primary-election/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This article lays out Alaska's absentee-ballot request deadlines and explains the different request methods, including online applications that require an Alaska driver's license or state ID number. It also summarizes in-person voting hours and acceptable ID at the polls, which directly affects AK-AK-AL voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0mjyt1i",
+        "headline": "Early voting opens for Alaska's 2026 primary election: Here's what to expect",
+        "sourceName": "The Seward Folly",
+        "url": "https://sewardfolly.com/2026/08/06/early-voting-opens-for-alaskas-2026-primary-election-heres-what-to-expect/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "The story explains where early in-person voting is available, what ID voters should bring, how absentee ballots are handled, and when results are expected. Those are core voting-procedure details for Alaska voters in AK-AK-AL.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-05r2f0f",
+        "headline": "Election director: More than a fifth of deactivated voters say they are citizens",
+        "sourceName": "Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/2026/08/06/more-than-fifth-deactivated-voters-say-they-are-citizens-elections-director-says/",
+        "publishedAt": "2026-08-06",
+        "relevanceSummary": "This article reports that more than a fifth of the deactivated voters told election officials they are citizens and can be reinstated by contacting the Division of Elections. It matters for voter-registration status and how Alaska voters can resolve eligibility problems before voting.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-ak-auto",
-      "startedAt": "2026-08-05T06:20:34.891Z",
-      "completedAt": "2026-08-05T06:21:10.695Z",
+      "id": "run-2026-08-12-ak-auto",
+      "startedAt": "2026-08-12T05:24:37.589Z",
+      "completedAt": "2026-08-12T05:25:06.247Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
-      "updatesCreated": 6,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for AK. Sources checked: 5. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for AK. Sources checked: 5. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:21:10.695Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:25:06.247Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
