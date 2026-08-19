@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:25:06.247Z",
-  "exportedAt": "2026-08-12T05:45:45.656Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:29:43.743Z",
+  "exportedAt": "2026-08-19T05:05:53.870Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-09",
+        "lastVerified": "2026-08-19",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -1173,20 +1173,100 @@
         "relevanceSummary": "This article reports that more than a fifth of the deactivated voters told election officials they are citizens and can be reinstated by contacting the Division of Elections. It matters for voter-registration status and how Alaska voters can resolve eligibility problems before voting.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0wwtl31",
+        "headline": "State of Alaska – 2026 Alaska Primary Ballot Measure Pamphlet",
+        "sourceName": "Alaska Division of Elections",
+        "url": "https://www.elections.alaska.gov/doc/bmp/2026/2026%20Alaska%20Primary%20BMP_ENG_web.pdf",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "The official statewide pamphlet explains how Alaska voters can look up polling places, register to vote, and apply for absentee ballots by mail or electronic transmission, including deadlines for applications and voter registration that also govern participation in the November general.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0tagolv",
+        "headline": "It's Alaska's statewide primary election day. Here's what you need to know",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-18/its-alaskas-statewide-primary-election-day-heres-what-you-need-to-know",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Alaska Public Media outlines statewide procedures for finding your polling place, what IDs are accepted, options if you vote at the wrong precinct, and detailed guidance on returning vote‑by‑mail ballots, including advice on getting a hand postmark and the option to drop sealed ballots at polling places.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-07eb0ub",
+        "headline": "It's primary election day in Alaska. Here's what to know",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/17/alaskas-primary-election-day-is-tuesday-heres-what-to-know/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "This statewide explainer details polling-place hours, acceptable forms of voter ID for in‑person voting, how to locate polling locations, and rules for absentee ballots including postmark deadlines, witness signature and identifier requirements—all procedures that will also apply to AK-AL voters in November unless changed.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ob4xbt",
+        "headline": "Alaska’s list of alleged noncitizen voters includes more Republicans than Democrats",
+        "sourceName": "Ground News (aggregation of Alaska coverage)",
+        "url": "https://ground.news/article/alaskas-list-of-alleged-noncitizen-voters-includes-more-republicans-than-democrats",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "Coverage of the Alaska Division of Elections removing more than 3,000 suspected noncitizens from the statewide voter list weeks before the primary raises election‑administration and voter‑registration concerns that directly affect eligibility and rolls for all AK-AL voters ahead of November.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0xl1g9r",
+        "headline": "Alaska Primary Elections 2026: Check Election Date, Polling Time, Key Candidate, Result Date, Last Winner, Voter ID Rules, Deadlines, How to Check Registration & All You Need to Know",
+        "sourceName": "Sunday Guardian Live",
+        "url": "https://sundayguardianlive.com/world/alaska-primary-elections-2026-check-election-date-polling-time-key-candidate-result-date-last-winner-voter-id-rules-deadlines-how-to-check-registration-all-you-need-to-know-262913",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "This explainer summarizes Alaska’s statewide primary timelines, early and absentee in‑person voting windows, absentee-by-mail application deadlines, and voter‑ID requirements for in‑person voting, giving AK-AL voters a consolidated reference on registration and absentee deadlines and ID rules.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ry54uu",
+        "headline": "More than 24,000 Alaska voters have already voted ahead of Tuesday's primary",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/14/more-than-24-000-alaska-voters-have-already-voted-ahead-of-tuesdays-primary/",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "This article highlights statewide early‑voting logistics, including how voters can find early-voting locations on the Division of Elections website, notes that the mail‑absentee request deadline has passed, and reminds voters that absentee ballots must be postmarked by election day, all of which inform AK-AL voters’ options for casting ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0pk2bz3",
+        "headline": "Early voting continues through the weekend ahead of Tuesday's Alaska primary",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/early-voting-continues-through-the-weekend-ahead-of-tuesdays-alaska-primary/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "This piece details early-voting site hours over the primary weekend and directs voters to the Division of Elections’ My Voter Information portal to check their precinct and registration, providing practical administrative information for AK-AL voters using early in‑person options.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0tji6dt",
+        "headline": "What to know about Tuesday's primary election",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-12/what-to-know-about-tuesdays-primary-election",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This statewide voter guide explains registration deadlines, early-voting availability, required IDs at the polls, acceptable documents, and absentee‑ballot postmark guidance, providing core election‑administration rules that AK-AL voters will use as a baseline for the November general.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-ak-auto",
-      "startedAt": "2026-08-12T05:24:37.589Z",
-      "completedAt": "2026-08-12T05:25:06.247Z",
+      "id": "run-2026-08-19-ak-auto",
+      "startedAt": "2026-08-19T04:28:49.158Z",
+      "completedAt": "2026-08-19T04:29:43.743Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 5,
-      "updatesCreated": 7,
-      "conflictsCreated": 0,
+      "sourcesChecked": 8,
+      "updatesCreated": 8,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for AK. Sources checked: 5. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for AK. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:25:06.247Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:29:43.743Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
