@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:29:43.743Z",
-  "exportedAt": "2026-08-19T05:05:53.870Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:32:31.288Z",
+  "exportedAt": "2026-08-26T05:13:48.167Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -232,7 +232,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed"
       },
       "src-akleg-sb64": {
@@ -320,7 +320,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-26",
         "confidence": "unconfirmed",
         "notes": "Describes 24ESEG effective-date mechanics (~90 days post-certification), the basis for treating the measure as non-retroactive to the 2026 House race."
       },
@@ -1253,20 +1253,100 @@
         "relevanceSummary": "This statewide voter guide explains registration deadlines, early-voting availability, required IDs at the polls, acceptable documents, and absentee‑ballot postmark guidance, providing core election‑administration rules that AK-AL voters will use as a baseline for the November general.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0s3iybn",
+        "headline": "Alaska primary count resumes Tuesday as close races await late ballots",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/alaska-primary-count-resumes-tuesday-as-close-races-await-late-ballots/",
+        "publishedAt": "2026-08-23",
+        "relevanceSummary": "This article walks through Alaska’s post‑primary counting, including when remaining early and questioned ballots are added, deadlines for mailed ballots to arrive, the State Review Board’s examination of materials, hand‑count verification in at least 5% of precincts, and deadlines for recount requests and election contests, giving AK‑AL voters insight into ballot review, security checks, and contest procedures that follow their votes.",
+        "tag": "canvass",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0n3h5aw",
+        "headline": "With almost all Alaska primary election day ballots counted, only a few races remain in question",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-21/with-almost-all-alaska-primary-election-day-ballots-counted-only-a-few-races-remain-in-question",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This report describes Alaska’s post‑primary ballot‑counting schedule, noting that counting is expected to finish by August 28, the deadline for mailed absentee ballots to reach the Division of Elections, clarifying for AK‑AL voters how mail‑ballot arrival deadlines affect whether their votes are included in official totals.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0cu5kok",
+        "headline": "DemDaily: This Week's Elections: Alaska",
+        "sourceName": "DemDaily",
+        "url": "https://www.demlist.com/demdaily-this-weeks-elections-alaska/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This piece summarizes Alaska’s nonpartisan blanket primary and top‑four system and explains how ranked‑choice voting works in the November general, including the elimination and redistribution rounds until a candidate secures a majority, providing procedural context for how congressional and statewide winners are determined on AK‑AL ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0us0kx1",
+        "headline": "Public Notice: Primary Election report",
+        "sourceName": "State of Alaska Division of Elections",
+        "url": "https://www.elections.alaska.gov/public-notice-primary-election-report/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This official Division of Elections report explains how Alaska handled the 2026 primary’s 402 precinct polling locations, early votes, questioned ballots, and absentee-by-mail ballots, including timelines for when early and absentee ballots are counted and how voter histories are checked to prevent double voting; these statewide procedures apply directly to all Alaska voters in the at-large congressional district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0nu7j88",
+        "headline": "In November, Alaskans must rank top picks to avoid ballot exhaustion",
+        "sourceName": "Alaska Watchman",
+        "url": "https://alaskawatchman.com/2026/08/20/in-november-alaskans-must-rank-top-picks-to-avoid-ballot-exhaustion/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This explainer details Alaska’s top‑four open primary and November ranked‑choice voting system, including how ballots become ‘inactive’ when they no longer rank a continuing candidate under AS 15.15.350 and why voters may want to rank multiple candidates to avoid ballot exhaustion; it directly affects how AK‑AL voters should mark their general‑election ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0qnclys",
+        "headline": "Preliminary results from Alaska's 2026 primary election",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/08/19/preliminary-results-from-alaskas-2026-primary-election/",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "In addition to summarizing preliminary results, this article reiterates that Alaska’s nonpartisan open primary lets voters pick one candidate per race and advances the top four to the November ranked‑choice general, reinforcing for AK‑AL voters the candidate‑qualification rules that shape which names will appear on their general‑election ballots.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0jro6ks",
+        "headline": "Alaska legislative races to watch as initial primary election results are reported",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/alaska-legislature/2026/08/18/alaska-legislative-races-to-watch-as-initial-primary-election-results-are-reported",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "This statewide primary article notes that initial results included early voting from August 3–13 and election‑day ballots, and explains that by‑mail ballots must be postmarked on or by election day and are counted if they arrive within 10 days, outlining mail‑ballot postmark and receipt rules that govern how AK‑AL voters’ mailed ballots are treated.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0nk6efs",
+        "headline": "Kreiss-Tomkins, Begich, Wilson and Bronson lead in early governor primary results",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-18/kreiss-tomkins-begich-wilson-and-bronson-lead-in-early-governor-primary-results",
+        "publishedAt": "2026-08-19",
+        "relevanceSummary": "Beyond reporting early gubernatorial primary results, this article notes that absentee ballots must be postmarked by primary day but can arrive until August 28 and that the Division of Elections plans to certify results on August 31, providing statewide absentee‑by‑mail and certification timelines that apply to all Alaska voters, including those in the at‑large congressional district.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-ak-auto",
-      "startedAt": "2026-08-19T04:28:49.158Z",
-      "completedAt": "2026-08-19T04:29:43.743Z",
+      "id": "run-2026-08-26-ak-auto",
+      "startedAt": "2026-08-26T04:31:41.543Z",
+      "completedAt": "2026-08-26T04:32:31.288Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
+      "sourcesChecked": 6,
       "updatesCreated": 8,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for AK. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources. 1 conflict flagged for human review."
+      "summary": "Automated refresh completed 2026-08-26 for AK. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:29:43.743Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:32:31.288Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
