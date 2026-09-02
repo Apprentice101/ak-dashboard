@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:32:31.288Z",
-  "exportedAt": "2026-08-26T05:13:48.167Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:16:46.764Z",
+  "exportedAt": "2026-09-02T09:07:33.556Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-09-02",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1333,20 +1333,70 @@
         "relevanceSummary": "Beyond reporting early gubernatorial primary results, this article notes that absentee ballots must be postmarked by primary day but can arrive until August 28 and that the Division of Elections plans to certify results on August 31, providing statewide absentee‑by‑mail and certification timelines that apply to all Alaska voters, including those in the at‑large congressional district.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0dmfdw5",
+        "headline": "A first-time voter’s guide to Alaska’s 2026 midterms",
+        "sourceName": "The Alaska Current",
+        "url": "https://thealaskacurrent.com/2026/09/01/a-first-time-voters-guide-to-alaskas-2026-midterms/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This guide explains how Alaskans can newly register to vote, including the use of paper voter registration applications and submission by mail, fax, or email to regional Division of Elections offices, providing practical voter-registration procedures and options that apply statewide, including to voters in Alaska’s at-large congressional district.[11]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0u1rfng",
+        "headline": "Alaska Supreme Court orders change to ranked-choice repeal ballot language, leaves disputed ‘open primary’ claim intact",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/alaska-supreme-court-orders-change-to-ranked-choice-repeal-ballot-language-leaves-disputed-open-primary-claim-intact/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "The Alaska Supreme Court ordered the state to correct ballot language for Ballot Measure 2, affecting how the repeal of ranked-choice voting and changes to primary structure are described on the general-election ballot; this statewide ruling directly impacts how AK-AK-AL voters will see and understand a key election-system measure on their November ballot.[2]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-00s5eem",
+        "headline": "Alaska Supreme Court to rule on question of bias in ballot measure language",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-26/alaska-supreme-court-to-rule-on-question-of-bias-in-ballot-measure-language",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This coverage describes a challenge to alleged bias in ballot measure language and notes the Alaska Supreme Court’s fast-tracked decision timeline tied to a Division of Elections deadline to print general-election ballots, highlighting how court rulings can alter what AK-AK-AL voters see on their ballots and the schedule for ballot preparation.[7]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0m3b38k",
+        "headline": "August, 2026 - Division of Elections",
+        "sourceName": "Alaska Division of Elections",
+        "url": "https://www.elections.alaska.gov/2026/08/",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This Division of Elections page contains August 2026 official communications and deadlines from Alaska’s election administrators, which govern ballot printing, election timelines, and procedures for the November general election that apply statewide to all Alaska voters, including those in the at-large congressional district.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-07b4h6i",
+        "headline": "Alaska judge confirms legislative candidate for primary despite blank financial disclosure form",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-08-14/alaska-judge-confirms-legislative-candidate-for-primary-despite-blank-financial-disclosure-form",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "An Anchorage Superior Court judge ruled that the Division of Elections correctly kept a state House candidate on the ballot despite a blank financial disclosure, clarifying that elections officials need not verify the substance of disclosure forms and that candidate certification hinges on later APOC review, which informs voters about candidate qualification and ballot-access standards in Alaska.[9]",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-ak-auto",
-      "startedAt": "2026-08-26T04:31:41.543Z",
-      "completedAt": "2026-08-26T04:32:31.288Z",
+      "id": "run-2026-09-02-ak-auto",
+      "startedAt": "2026-09-02T08:15:34.589Z",
+      "completedAt": "2026-09-02T08:16:46.764Z",
       "triggerType": "scheduled",
       "sourcesChecked": 6,
-      "updatesCreated": 8,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for AK. Sources checked: 6. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for AK. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:32:31.288Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:16:46.764Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
