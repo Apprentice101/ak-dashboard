@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:16:46.764Z",
-  "exportedAt": "2026-09-02T09:07:33.556Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:30:56.269Z",
+  "exportedAt": "2026-09-09T09:18:00.721Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -232,7 +232,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed"
       },
       "src-akleg-sb64": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1383,20 +1383,100 @@
         "relevanceSummary": "An Anchorage Superior Court judge ruled that the Division of Elections correctly kept a state House candidate on the ballot despite a blank financial disclosure, clarifying that elections officials need not verify the substance of disclosure forms and that candidate certification hinges on later APOC review, which informs voters about candidate qualification and ballot-access standards in Alaska.[9]",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-08uj09h",
+        "headline": "We are back on the ballot – Treg Taylor is still in the hunt for Alaska governor",
+        "sourceName": "Alaska Watchman",
+        "url": "https://alaskawatchman.com/2026/09/05/we-are-back-on-the-ballot-treg-taylor-is-still-in-the-hunt-for-alaska-governor/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "The article explains Alaska’s top-four nonpartisan primary and ranked-choice general election procedures for statewide offices, including how primary candidates advance and how voters’ ranked choices are counted and transferred, giving voters in the at-large district important context on the ballot structure and counting rules they will encounter in November.[4]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0kwu473",
+        "headline": "Newsroom - Alaska Division of Elections (early September updates)",
+        "sourceName": "Alaska Division of Elections",
+        "url": "https://www.elections.alaska.gov/newsroom/",
+        "publishedAt": "2026-09-05",
+        "relevanceSummary": "The Division of Elections newsroom page aggregates official statewide election-administration updates, and early September postings inform voters about current election timelines, Division contacts, and any statewide procedural notices, which apply directly to all Alaska voters including those in the at-large congressional district.[2]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-060hctq",
+        "headline": "Alaska's 2026 election saw some of the highest primary voter turnout of the past decade",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/09/03/alaskas-2026-primary-saw-some-of-the-highest-voter-turnout-of-the-past-decade/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This coverage notes that the state reported all 402 precinct polling locations opened on primary election day while Alaska Native advocates raised concerns about barriers to voting, drawing attention to how statewide election administration operated in practice and to ongoing access and location-related issues that may affect voters in Alaska’s at-large district.[10][9]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-07cytvl",
+        "headline": "Alaska legislator asks state to prosecute candidate for Lt. Gov. and former attorney general",
+        "sourceName": "Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/2026/09/04/alaska-legislator-asks-state-prosecute-candidate-lt-gov-former-attorney-general/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This report describes a dispute involving a statewide candidate’s financial disclosure obligations and notes that the Alaska Division of Elections plans to send out general-election ballots beginning September 18, highlighting both candidate-qualification questions and the timeline for ballot mailing that affect how and when Alaska voters will receive and cast their ballots.[13]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ine88j",
+        "headline": "Alaska Division of Elections reminds voters of upcoming registration deadline",
+        "sourceName": "Alaska Division of Elections (via X)",
+        "url": "https://x.com/ak_elections/status/2095998934946869461",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "A post from the Alaska Division of Elections highlights a voter-registration deadline for an upcoming REAA election, signaling key cutoff dates for registering to vote and encouraging Alaska voters, including those in the at-large district, to verify or update their registration in advance of local and statewide contests.[1]",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0g2qpfg",
+        "headline": "Notice of Regular Election – October 6, 2026",
+        "sourceName": "City of Wasilla",
+        "url": "https://www.cityofwasilla.gov/m/newsflash/home/detail/147",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This official notice outlines early voting dates, polling location hours, absentee-by-mail application deadlines, mail-ballot postmark and receipt deadlines, and use of a secure drop box for the October 6 municipal election in Wasilla, providing clear procedural information on how AK voters in the Matanuska-Susitna Borough can cast ballots in person, by mail, or via drop box.[8]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0gzguce",
+        "headline": "Sitka opens early voting Sept. 21 for six seats",
+        "sourceName": "Alaska News",
+        "url": "https://alaskanews.com/c/alaska-news/sitka-opens-early-voting-sept-21-for-six-seats",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This article details early voting in Sitka, including dates, accessibility features at precincts, voter registration deadline timing, and three absentee options (mail, fax, email) with specific request and return deadlines, giving voters in this Alaska municipality concrete guidance on local ballot procedures, absentee voting methods, and accessibility accommodations.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0gh91jz",
+        "headline": "4 key dates to know in Alaska's 2026 midterm elections",
+        "sourceName": "The Alaska Current",
+        "url": "https://thealaskacurrent.com/2026/09/02/4-key-dates-to-know-in-alaskas-2026-midterm-elections/",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "This piece lists critical statewide deadlines for Alaska’s 2026 midterms, including the last day to register to vote for the November election, the cutoff to request a mail ballot, Election Day polling hours, and the postmark and receipt deadlines for mail-in ballots, offering practical, date-specific voting procedure guidance to all Alaska voters.[11]",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-ak-auto",
-      "startedAt": "2026-09-02T08:15:34.589Z",
-      "completedAt": "2026-09-02T08:16:46.764Z",
+      "id": "run-2026-09-09-ak-auto",
+      "startedAt": "2026-09-09T08:30:06.130Z",
+      "completedAt": "2026-09-09T08:30:56.269Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 5,
+      "sourcesChecked": 5,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for AK. Sources checked: 6. LLM verifications: 5. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for AK. Sources checked: 5. LLM verifications: 4. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:16:46.764Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:30:56.269Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
