@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:30:56.269Z",
-  "exportedAt": "2026-09-09T09:18:00.721Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T08:58:33.435Z",
+  "exportedAt": "2026-09-16T09:49:29.362Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -66,7 +66,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Confirms Aug. 18, 2026 top-four primary and Nov. 3, 2026 RCV general dates."
       },
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -232,7 +232,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed"
       },
       "src-akleg-sb64": {
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1463,20 +1463,90 @@
         "relevanceSummary": "This piece lists critical statewide deadlines for Alaska’s 2026 midterms, including the last day to register to vote for the November election, the cutoff to request a mail ballot, Election Day polling hours, and the postmark and receipt deadlines for mail-in ballots, offering practical, date-specific voting procedure guidance to all Alaska voters.[11]",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ammhqz",
+        "headline": "Report used to justify reinstatement of Alaska Republican governor candidate appears flawed",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-09-14/report-used-to-justify-reinstatement-of-alaska-republican-governor-candidate-appears-flawed",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "The story discusses financial disclosure requirements for candidates and how incomplete disclosures affect eligibility to run, highlighting statewide candidate qualification and enforcement processes that shape who appears on Alaskans’ November general ballots.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0tajibo",
+        "headline": "A lot of Alaskans are ‘bullet voters.' Sometimes that's not the best strategy.",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/2026-09-10/a-lot-of-alaskans-are-bullet-voters-sometimes-thats-not-the-best-strategy",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This piece explains how Alaska’s ranked-choice ballots work in the November election and how different ranking strategies affect outcomes, giving AK-AL voters practical guidance on how to use their ranked-choice ballots effectively.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-01jaik0",
+        "headline": "Alaska voters to decide on the second U.S. Senate general election using ranked-choice voting",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/09/14/alaska-voters-to-decide-on-the-second-u-s-senate-general-election-using-ranked-choice-voting/",
+        "publishedAt": "2026-09-14",
+        "relevanceSummary": "This explainer details how Alaska’s ranked-choice voting system will be used again in the 2026 general election, describing ballot structure and tabulation rules that apply statewide, including to congressional contests on every AK-AL voter’s ballot.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0qpvm9k",
+        "headline": "Alaska drops cases against American Samoans who checked ‘US citizen’ on voter form",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/alaska-drops-case-american-samoans-citizen-voting-form",
+        "publishedAt": "2026-09-13",
+        "relevanceSummary": "This article reports that Alaska prosecutors are dropping voter misconduct cases against residents born in American Samoa after an appeals court decision, illustrating how the state enforces voter registration forms and citizenship declarations, which is relevant to how AK-AL voters’ eligibility and registration attestations are treated.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0574bcf",
+        "headline": "Alaska Democrats again seek to remove Republican legislative candidate from ballot over blank financial disclosure",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/09/09/alaska-democrats-again-seek-to-remove-republican-legislative-candidate-from-ballot-over-blank-financial-disclosure",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "The article notes that the Division of Elections is required to begin mailing ballots for the November election on Sept. 18, providing a concrete ballot-mailing timeline and confirming ballot administration steps that affect when AK-AL voters will receive their mail-in ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0m3b37p",
+        "headline": "September, 2026 - Alaska Division of Elections",
+        "sourceName": "Alaska Division of Elections",
+        "url": "https://www.elections.alaska.gov/2026/09/",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "This official Division of Elections update outlines current statewide voter registration and election administration information for the November general election, directly governing procedures (such as registration, mail-in voting, and polling operations) for all Alaska voters, including those in the at-large congressional district.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0axtiwk",
+        "headline": "When will Alaska's statewide candidates debate? Here's a list of events.",
+        "sourceName": "States Newsroom / Alaska outlet",
+        "url": "https://www.newsfromthestates.com/article/when-will-alaskas-statewide-candidates-debate-heres-list-of-events",
+        "publishedAt": "2026-09-09",
+        "relevanceSummary": "In listing statewide debate events, this piece also explains that the first ballots for Alaska’s November general election will be mailed Sept. 18 and that early voting is scheduled to begin Oct. 19, clarifying key ballot mailing and early-voting start dates for all Alaska voters.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-ak-auto",
-      "startedAt": "2026-09-09T08:30:06.130Z",
-      "completedAt": "2026-09-09T08:30:56.269Z",
+      "id": "run-2026-09-16-ak-auto",
+      "startedAt": "2026-09-16T08:57:45.962Z",
+      "completedAt": "2026-09-16T08:58:33.435Z",
       "triggerType": "scheduled",
       "sourcesChecked": 5,
-      "updatesCreated": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for AK. Sources checked: 5. LLM verifications: 4. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for AK. Sources checked: 5. LLM verifications: 4. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:30:56.269Z",
+    "NEXT_REFRESH_AT": "2026-09-23T08:58:33.435Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
