@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T08:58:19.789Z",
-  "exportedAt": "2026-09-23T09:35:43.890Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:08:10.700Z",
+  "exportedAt": "2026-09-30T10:35:41.020Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-30",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1583,20 +1583,80 @@
         "relevanceSummary": "The article reports that Alaska’s Division of Elections set the general-election ballots on September 16, 2026, following certification of the primary results. This is relevant to statewide voters because it concerns the candidates and contests appearing on the November ballot.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0wjh6xi",
+        "headline": "Judge considers whether to overrule Alaska's lieutenant governor on candidates' eligibility",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-09-29/judge-considers-whether-to-overrule-alaskas-lieutenant-governor-on-candidates-eligibility",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "An Alaska court is considering a challenge to the state’s decision about a candidate’s eligibility for the November ballot. The litigation could affect statewide understanding of candidate-qualification and ballot-access procedures before general-election voting begins.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0rkcojd",
+        "headline": "Judge rejects Anchorage state House candidate's challenge to August state primary result",
+        "sourceName": "Alaska Beacon",
+        "url": "https://www.newsfromthestates.com/article/judge-rejects-anchorage-state-house-candidates-challenge-august-state-primary-result",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "An Anchorage Superior Court judge rejected expedited relief for a disqualified state House candidate seeking placement on the November ballot. The case describes Alaska Division of Elections candidate-filing requirements and the rule that only registered write-in candidates may participate in general elections.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-03e1p9b",
+        "headline": "ACLU Alaska sheds light on voting rights for incarcerated people",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-09-28/aclu-alaska-sheds-light-on-voting-rights-for-incarcerated-people",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The article explains that eligible incarcerated Alaskans may request and vote by mail from correctional facilities. It identifies the application timing and the requirement that completed ballots be postmarked by Nov. 3.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0cht715",
+        "headline": "Election deadlines: Local write-in candidates on Tuesday, voter registration for statewide races Sunday",
+        "sourceName": "Juneau Independent",
+        "url": "https://www.juneauindependent.com/post/election-deadlines-local-write-in-candidates-on-tuesday-voter-registration-for-statewide-races-sun",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The article lists Alaska election deadlines, including the Oct. 4 voter-registration deadline, the Oct. 24 deadline for absentee-by-mail applications, and the deadline for electronic-transmission applications. It also reports local ballot-mailing and drop-box availability.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0e2buyz",
+        "headline": "The voter registration deadline for Alaska's general election is Oct. 4. Here's how to register.",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/09/24/the-voter-registration-deadline-for-alaskas-general-election-is-oct-4-heres-how-to-register/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "Alaska voters, including those in the at-large congressional district, must register by Oct. 4 for the general election. The article explains registration methods, polling-place hours, accepted in-person identification, absentee-ballot request deadlines, postmark rules, and ballot drop-off options.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-07dsywv",
+        "headline": "Ten rural Alaska communities can now vote in person on Election Day",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskanews.com/c/alaska-news/ten-rural-alaska-communities-can-now-vote-in-person-on-election-day",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "Alaska has designated ten rural communities as Permanent Absentee Voting locations, allowing residents to cast absentee ballots in person locally. Voting at these locations begins Oct. 19, and ballots must reach a voting location by 8 p.m. on Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-ak-auto",
-      "startedAt": "2026-09-23T08:57:27.301Z",
-      "completedAt": "2026-09-23T08:58:19.789Z",
+      "id": "run-2026-09-30-ak-auto",
+      "startedAt": "2026-09-30T10:07:11.473Z",
+      "completedAt": "2026-09-30T10:08:10.700Z",
       "triggerType": "scheduled",
       "sourcesChecked": 7,
-      "updatesCreated": 5,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for AK. Sources checked: 7. LLM verifications: 6. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for AK. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T08:58:19.789Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:08:10.700Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
