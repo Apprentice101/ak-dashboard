@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:08:10.700Z",
-  "exportedAt": "2026-09-30T10:35:41.020Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:44:10.849Z",
+  "exportedAt": "2026-10-07T11:10:58.798Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -320,7 +320,7 @@
         "sourceType": "news",
         "hierarchyLevel": 6,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-10-07",
         "confidence": "unconfirmed",
         "notes": "Describes 24ESEG effective-date mechanics (~90 days post-certification), the basis for treating the measure as non-retroactive to the 2026 House race."
       },
@@ -1643,20 +1643,60 @@
         "relevanceSummary": "Alaska has designated ten rural communities as Permanent Absentee Voting locations, allowing residents to cast absentee ballots in person locally. Voting at these locations begins Oct. 19, and ballots must reach a voting location by 8 p.m. on Election Day.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0gdk4mq",
+        "headline": "What to know about Alaska’s general election",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-10-05/what-to-know-about-alaskas-general-election",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "This statewide voter guide explains Alaska’s key general-election procedures, including the Oct. 24 absentee-by-mail application deadline, Nov. 3 return deadlines, Oct. 19 early voting start, and questioned-ballot verification.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0r8me1y",
+        "headline": "Thirty days to Election Day: Alaska early voting begins Oct. 19, voter registration deadline is today",
+        "sourceName": "The Alaska Story",
+        "url": "https://thealaskastory.com/thirty-days-to-election-day-alaska-early-voting-begins-oct-19-voter-registration-deadline-is-today/",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The article covers Alaska’s statewide registration deadline and early-voting schedule, and explains absentee-ballot requirements including the return-envelope signature, voter identifier, and witness signature.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0byy284",
+        "headline": "Alaska’s Voter registration deadline is Sunday",
+        "sourceName": "Alaska’s News Source",
+        "url": "https://www.alaskasnewssource.com/2026/10/03/alaskas-voter-registration-deadline-is-sunday/",
+        "publishedAt": "2026-10-03",
+        "relevanceSummary": "This statewide report explains how Alaska voters can register or update registration online, in person, by mail, fax, or email, and gives the Division of Elections office hours around the deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0nzod3u",
+        "headline": "Judge rejects Anchorage state House candidate's challenge to primary disqualification",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/alaska-legislature/2026/09/30/judge-rejects-anchorage-state-house-candidates-challenge-to-primary-disqualification",
+        "publishedAt": "2026-09-30",
+        "relevanceSummary": "An Anchorage court declined to restore a disqualified candidate to the November ballot after the Division of Elections determined she failed to file a required financial-disclosure form. The ruling also describes Alaska’s rule that only registered write-in candidates may participate in general elections.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-ak-auto",
-      "startedAt": "2026-09-30T10:07:11.473Z",
-      "completedAt": "2026-09-30T10:08:10.700Z",
+      "id": "run-2026-10-07-ak-auto",
+      "startedAt": "2026-10-07T10:43:33.128Z",
+      "completedAt": "2026-10-07T10:44:10.849Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 6,
+      "sourcesChecked": 8,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for AK. Sources checked: 7. LLM verifications: 5. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for AK. Sources checked: 8. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:08:10.700Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:44:10.849Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
