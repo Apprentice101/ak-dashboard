@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:44:10.849Z",
-  "exportedAt": "2026-10-07T11:10:58.798Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:10:18.739Z",
+  "exportedAt": "2026-10-14T09:30:37.709Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-14",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1683,20 +1683,40 @@
         "relevanceSummary": "An Anchorage court declined to restore a disqualified candidate to the November ballot after the Division of Elections determined she failed to file a required financial-disclosure form. The ruling also describes Alaska’s rule that only registered write-in candidates may participate in general elections.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0iqxxgv",
+        "headline": "2026 Alaska voter guide: Compare the candidates in the general election",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/10/05/2026-alaska-voter-guide-compare-the-candidates-in-the-general-election/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "Explains Alaska’s ranked-choice voting process, including ranking candidates and reallocating votes when no candidate initially receives a majority, a procedure used by AK-AK-AL voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0y03dum",
+        "headline": "It’s Time to Vote! 2026 Municipal, REAA, and General Elections",
+        "sourceName": "Tanana Chiefs Conference",
+        "url": "https://www.tananachiefs.org/its-time-to-vote-2026-municipal-reaa-and-general-elections/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "Summarizes statewide general-election deadlines and early, absentee-in-person, electronic-transmission, and special-needs voting procedures, directing voters to official Alaska election resources.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-ak-auto",
-      "startedAt": "2026-10-07T10:43:33.128Z",
-      "completedAt": "2026-10-07T10:44:10.849Z",
+      "id": "run-2026-10-14-ak-auto",
+      "startedAt": "2026-10-14T09:09:53.442Z",
+      "completedAt": "2026-10-14T09:10:18.739Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 8,
-      "updatesCreated": 4,
+      "sourcesChecked": 6,
+      "updatesCreated": 2,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for AK. Sources checked: 8. LLM verifications: 7. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for AK. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:44:10.849Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:10:18.739Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
