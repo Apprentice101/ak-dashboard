@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:10:18.739Z",
-  "exportedAt": "2026-10-14T09:30:37.709Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:00:50.293Z",
+  "exportedAt": "2026-10-21T09:20:30.898Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1703,20 +1703,80 @@
         "relevanceSummary": "Summarizes statewide general-election deadlines and early, absentee-in-person, electronic-transmission, and special-needs voting procedures, directing voters to official Alaska election resources.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0ck9zha",
+        "headline": "12,000 Alaskans turn out on first day of early voting. Will Alaska see another record?",
+        "sourceName": "Alaska’s News Source",
+        "url": "https://www.alaskasnewssource.com/2026/10/21/12000-alaskans-turn-out-first-day-early-voting-will-alaska-see-another-record/",
+        "publishedAt": "2026-10-21",
+        "relevanceSummary": "The article reports that any Alaska voter may apply for an absentee ballot and explains that ballots must be received or postmarked by Nov. 3 to count. It also describes online and paper application options.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0y7d9so",
+        "headline": "'Worth the wait:' Alaskans line up to vote early",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-10-20/worth-the-wait-alaskans-line-up-to-vote-early",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article covers the opening of early voting statewide more than two weeks before the Nov. 3 general election, providing timely information for Alaska voters deciding when and where to vote.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0l0cn9b",
+        "headline": "'Show up and do your part': Early voting begins in Alaska with long lines in Anchorage",
+        "sourceName": "Anchorage Daily News",
+        "url": "https://www.adn.com/politics/2026/10/19/show-up-and-do-your-part-early-voting-begins-in-alaska-with-long-lines-in-anchorage/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The article lists statewide early-voting and absentee-in-person locations, explains Alaska’s acceptable identification options, and provides mail-ballot deadlines and arrival rules. It also notes that voters may drop off absentee ballots at polling places until 8 p.m. on Election Day.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0icwe86",
+        "headline": "Early voting begins in Alaska with neck-and-neck Senate race front of mind",
+        "sourceName": "Alaska’s News Source",
+        "url": "https://www.alaskasnewssource.com/2026/10/19/early-voting-begins-alaska-with-neck-and-neck-senate-race-front-mind/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article reports statewide early-voting locations and hours, confirms that any Alaskan may request an absentee ballot, and highlights the Nov. 3 postmark or receipt requirement. It also explains that the general election uses ranked-choice voting and includes a write-in option.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0hhxbb7",
+        "headline": "Early voting opens in Alaska’s midterm elections",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-10-19/early-voting-opens-in-alaskas-midterm-elections",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Alaska’s 15-day early-voting period has opened, with locations and hours in Anchorage, Eagle River, Wasilla, Palmer, Juneau, Fairbanks, Kenai, Nome and other communities. The article also notes the Oct. 24 deadline to request a mail ballot and Election Day voting hours of 7 a.m. to 8 p.m.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-02qsc4u",
+        "headline": "Kodiak Assembly certifies election, swears in three as fourth winner waits",
+        "sourceName": "Alaska News",
+        "url": "https://alaskanews.com/c/alaska-news/kodiak-assembly-certifies-election-swears-in-three-as-fourth-winner-waits",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "Kodiak’s canvass board reviewed by-mail, absentee, special-needs, questioned and write-in ballots before certifying the election, illustrating Alaska ballot-review and canvass procedures applicable to statewide election administration.",
+        "tag": "canvass",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-ak-auto",
-      "startedAt": "2026-10-14T09:09:53.442Z",
-      "completedAt": "2026-10-14T09:10:18.739Z",
+      "id": "run-2026-10-21-ak-auto",
+      "startedAt": "2026-10-21T09:00:26.126Z",
+      "completedAt": "2026-10-21T09:00:50.293Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 2,
+      "sourcesChecked": 7,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for AK. Sources checked: 6. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for AK. Sources checked: 7. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:10:18.739Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:00:50.293Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
