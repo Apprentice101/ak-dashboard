@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:00:50.293Z",
-  "exportedAt": "2026-10-21T09:20:30.898Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:12:17.258Z",
+  "exportedAt": "2026-10-28T10:22:15.299Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -220,7 +220,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed"
       },
       "src-as-15-20-081": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1763,20 +1763,60 @@
         "relevanceSummary": "Kodiak’s canvass board reviewed by-mail, absentee, special-needs, questioned and write-in ballots before certifying the election, illustrating Alaska ballot-review and canvass procedures applicable to statewide election administration.",
         "tag": "canvass",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0j3xkc8",
+        "headline": "Alaska prepares for election day amid strong early voter turnout",
+        "sourceName": "Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/2026/10/27/alaska-prepares-election-day-amid-strong-early-voter-turnout/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "The Alaska Division of Elections has prepared contingency procedures for poll-worker shortages, equipment failures and ballot shortages. The plan includes backup staffing and alternative methods for recording voter intent if official ballots run out.[9]",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-09gegaj",
+        "headline": "Some rural Alaska absentee voting sites failed to open ahead of midterms",
+        "sourceName": "Alaska Public Media",
+        "url": "https://alaskapublic.org/news/politics/elections/2026-10-27/some-rural-alaska-absentee-voting-sites-failed-to-open-ahead-of-midterms",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "Several rural Alaska absentee voting sites failed to fully open after early and in-person absentee voting began. The Division of Elections said ballots were sent to officials in 109 communities and clarified that absentee ballots are not rejected for mistakes by absentee voting officials.[1]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0rc7s29",
+        "headline": "Early voting for Alaska's general election opens in Juneau, Nome and across the Railbelt",
+        "sourceName": "Alaska Beacon",
+        "url": "https://alaskabeacon.com/2026/10/19/early-voting-for-alaskas-general-election-opens-in-juneau-nome-and-across-the-railbelt/",
+        "publishedAt": "2026-10-23",
+        "relevanceSummary": "The article lists early and in-person absentee voting locations and hours across Alaska, including Anchorage, Fairbanks, Juneau, Kenai, Nome, Palmer and Wasilla. It explains identity checks for early voting, absentee-ballot rejection risks, and postmark and receipt deadlines for mailed ballots.[4]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ak-0550arb",
+        "headline": "Thousands of Alaskans are voting before Election Day. Some ballots won't be counted until after it",
+        "sourceName": "Juneau Independent",
+        "url": "https://www.juneauindependent.com/post/thousands-of-alaskans-are-voting-before-election-day-some-ballots-won-t-be-counted-until-after-it",
+        "publishedAt": "2026-10-22",
+        "relevanceSummary": "The article explains the difference between early voting and absentee voting, including identity verification, witness requirements, delivery deadlines and the absence of a cure process for procedural problems. It also describes when absentee ballots are counted and how ranked-choice results are reported.[5]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-ak-auto",
-      "startedAt": "2026-10-21T09:00:26.126Z",
-      "completedAt": "2026-10-21T09:00:50.293Z",
+      "id": "run-2026-10-28-ak-auto",
+      "startedAt": "2026-10-28T10:11:56.097Z",
+      "completedAt": "2026-10-28T10:12:17.258Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 7,
-      "updatesCreated": 6,
+      "sourcesChecked": 6,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for AK. Sources checked: 7. LLM verifications: 6. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for AK. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:00:50.293Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:12:17.258Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
