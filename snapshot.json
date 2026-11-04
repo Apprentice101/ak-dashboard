@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-28",
-  "updatedAt": "2026-10-28T10:12:17.258Z",
-  "exportedAt": "2026-10-28T10:22:15.299Z",
+  "dataAsOf": "2026-11-04",
+  "updatedAt": "2026-11-04T11:45:56.014Z",
+  "exportedAt": "2026-11-04T11:48:35.734Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-04",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -1806,17 +1806,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-28-ak-auto",
-      "startedAt": "2026-10-28T10:11:56.097Z",
-      "completedAt": "2026-10-28T10:12:17.258Z",
+      "id": "run-2026-11-04-ak-auto",
+      "startedAt": "2026-11-04T11:45:52.111Z",
+      "completedAt": "2026-11-04T11:45:56.014Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 6,
-      "updatesCreated": 4,
+      "sourcesChecked": 10,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-28 for AK. Sources checked: 6. LLM verifications: 5. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-04 for AK. Sources checked: 10. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-04T10:12:17.258Z",
+    "NEXT_REFRESH_AT": "2026-11-11T11:45:56.014Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
