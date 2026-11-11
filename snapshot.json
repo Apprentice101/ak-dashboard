@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-04",
-  "updatedAt": "2026-11-04T11:45:56.014Z",
-  "exportedAt": "2026-11-04T11:48:35.734Z",
+  "dataAsOf": "2026-11-11",
+  "updatedAt": "2026-11-11T11:36:37.549Z",
+  "exportedAt": "2026-11-11T11:42:05.157Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-04",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-28",
+        "lastVerified": "2026-11-11",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1806,17 +1806,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-04-ak-auto",
-      "startedAt": "2026-11-04T11:45:52.111Z",
-      "completedAt": "2026-11-04T11:45:56.014Z",
+      "id": "run-2026-11-11-ak-auto",
+      "startedAt": "2026-11-11T11:36:33.282Z",
+      "completedAt": "2026-11-11T11:36:37.549Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 10,
+      "sourcesChecked": 9,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-04 for AK. Sources checked: 10. LLM verifications: 11. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-11 for AK. Sources checked: 9. LLM verifications: 9. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-11T11:45:56.014Z",
+    "NEXT_REFRESH_AT": "2026-11-18T11:36:37.549Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
