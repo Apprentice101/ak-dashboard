@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-11",
-  "updatedAt": "2026-11-11T11:36:37.549Z",
-  "exportedAt": "2026-11-11T11:42:05.157Z",
+  "dataAsOf": "2026-11-18",
+  "updatedAt": "2026-11-18T12:30:28.092Z",
+  "exportedAt": "2026-11-18T12:39:25.447Z",
   "districtCode": "AK-AL",
   "data": {
     "DISTRICT": {
@@ -194,7 +194,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-11-18",
         "confidence": "unconfirmed",
         "notes": "Source for 2024 RCV tabulation (Nov. 20) and certification (Nov. 30) timing used as 2026 estimate analogues."
       },
@@ -244,7 +244,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-11",
+        "lastVerified": "2026-11-18",
         "confidence": "unconfirmed",
         "notes": "Would have added tribal ID as accepted voter ID, removed hunting/fishing licenses, created a ballot-curing process, and tightened voter-roll inactive-status timeline. Vetoed by Gov. Dunleavy April 30, 2026; override outcome unconfirmed."
       },
@@ -282,7 +282,7 @@
         "sourceType": "civic-nonprofit",
         "hierarchyLevel": 5,
         "dateAccessed": "2026-07-09",
-        "lastVerified": "2026-11-11",
+        "lastVerified": "2026-11-18",
         "confidence": "unconfirmed",
         "notes": "Confirms 24ESEG (RCV repeal) qualified for the Nov. 3, 2026 general ballot, not the August primary."
       },
@@ -1806,17 +1806,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-11-ak-auto",
-      "startedAt": "2026-11-11T11:36:33.282Z",
-      "completedAt": "2026-11-11T11:36:37.549Z",
+      "id": "run-2026-11-18-ak-auto",
+      "startedAt": "2026-11-18T12:30:24.031Z",
+      "completedAt": "2026-11-18T12:30:28.092Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 9,
+      "sourcesChecked": 8,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-11 for AK. Sources checked: 9. LLM verifications: 9. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-18 for AK. Sources checked: 8. LLM verifications: 7. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-18T11:36:37.549Z",
+    "NEXT_REFRESH_AT": "2026-11-25T12:30:28.092Z",
     "WEEKLY_REPORT": {
       "id": "wr-ak-2026-w28",
       "periodStart": "2026-07-09",
